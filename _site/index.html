@@ -30,7 +30,7 @@
 <body>
 
     <!-- Navigation -->
-    <nav class="navbar navbar-default navbar-fixed-top" "role="navigation" >
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation" >
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
@@ -46,13 +46,13 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="#" data-toggle="modal" data-target="#myModal">About</a>
+                        <a href="#" data-toggle="modal" data-target="#About">About</a>
                     </li>
                     <li>
-                        <a href="Vita.pdf" target="_blank">Vita</a>
+                        <a href="#" data-toggle="modal" data-target="#Vita">Vita</a>
                     </li>
                     <li>
-                        <a href="contact.html">Contact</a>
+                        <a href="#" data-toggle="modal" data-target="#Contact">Contact</a>
                     </li>
                 </ul>
             </div>
@@ -64,17 +64,17 @@
     <!-- Put your page content here! -->
     <div class="container">
       <!-- Modal -->
-      <div class="modal fade" id="myModal" role="dialog">
+      <div class="modal fade" id="About" role="dialog">
         <div class="modal-dialog">
 
           <!-- Modal content-->
           <div class="modal-content">
             <div class="modal-header">
               <button type="button" class="close" data-dismiss="modal">&times;</button>
-              <h4 class="modal-title">Modal Header</h4>
+              <h4 class="modal-title">About</h4>
             </div>
             <div class="modal-body">
-          <img src="Headshot.jpg"><p><span class="big-letter">J</span>arek Paul Ervin is a music scholar working at the intersection of musicology, cultural studies, philosophy, and social theory. Broadly, Ervin&rsquo;s thought investigates the overlapping and often conflicting dynamics of music as aesthetic practice, social force, historical inheritance, and a privileged window into the domain of sensory experience. Recent projects have investigated these concerns within a number of areas, including the early history of popular music studies, avant-garde musical aesthetics, and the recent resurgence of white supremacist music. Ervin&rsquo;s more general concerns include: popular music studies, music history, and music theory; gender and sexuality in music; and philosophy of music, especially German Idealism and critical theory (Luk&aacute;cs, Benjamin, Bloch, and Adorno).</p>
+          <img src="Headshot.jpg" alt="Jarek Ervin"><p><span class="big-letter">J</span>arek Paul Ervin is a music scholar working at the intersection of musicology, cultural studies, philosophy, and social theory. Broadly, Ervin&rsquo;s thought investigates the overlapping and often conflicting dynamics of music as aesthetic practice, social force, historical inheritance, and a privileged window into the domain of sensory experience. Recent projects have investigated these concerns within a number of areas, including the early history of popular music studies, avant-garde musical aesthetics, and the recent resurgence of white supremacist music. Ervin&rsquo;s more general concerns include: popular music studies, music history, and music theory; gender and sexuality in music; and philosophy of music, especially German Idealism and critical theory (Luk&aacute;cs, Benjamin, Bloch, and Adorno).</p>
         <p>Ervin is currently a PhD candidate in University of Virginia&rsquo;s McIntire Department of Music. His dissertation concentrates on the fraught character of New York&rsquo;s iconic punk scene of the 1970s. Drawing on a range of archival, critical, and recorded materials, Ervin&rsquo;s project focuses on the way the category of punk served as a fragile placeholder for a range of artists including Velvet Underground, Jayne County, Patti Smith, the Ramones, and Blondie. Along the way, Ervin examines the way punk&rsquo;s elusive character carved out a unique space for re-evaluating music at the intersection of the historical, the discursive, and the aesthetic. Ultimately, this leads to an interrogation of broader issues related to genre theory, gender and sexual identity, and popular music&rsquo;s troubled history.</p>
         <p>&nbsp;</p>
         <p>Ervin&rsquo;s work has appeared at a number of recent conferences, including Left Forum 2014 and IASPM-US 2016; this fall, he will present at the joint meeting of AMS and SMT. Ervin has held fellowships from the Library of Congress and UVa&rsquo;s Vice President's Office for Research, and in 2015 was the Gladys Krieble Delmas Visiting Scholar at the Rock and Roll Hall of Fame&rsquo;s Library and Archives. In 2016, his work will be supported by a Battestin Fellowship from the Bibliographical Society of the University of Virginia.</p>
@@ -88,9 +88,62 @@
 
         </div>
       </div>
-
     </div>
 
+    <div class="container">
+      <!-- Modal -->
+      <div class="modal fade" id="Contact" role="dialog">
+        <div class="modal-dialog">
+
+          <!-- Modal content-->
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal">&times;</button>
+              <h4 class="modal-title">Contact</h4>
+            </div>
+            <div class="modal-body">
+              <h4>Jarek Paul Ervin</h4>
+              <p>Ph.D. Candidate</p>
+              <p>McIntire Department of Music</p>
+              <p>University of Virginia</p>
+              <br>
+              <p>112 Old Cabell Hall</p>
+              <p>P.O. Box 400176</p>
+              <p>Charlottesville, VA 22904-4176</p>
+
+              <a href="#">Email</a>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <!-- Modal -->
+      <div class="modal fade" id="Vita" role="dialog">
+        <div class="modal-dialog">
+
+          <!-- Modal content-->
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal">&times;</button>
+              <h4 class="modal-title">Vita</h4>
+            </div>
+            <div class="modal-body" class="vita">
+              <h4>To see the full curriculum vitae in PDF form, <a href="Vita.pdf" target="_blank">click here</a></h4>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
 
