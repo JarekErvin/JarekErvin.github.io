@@ -17,3 +17,9 @@ body {
     background-size: cover;
     -o-background-size: cover;
 }
+
+span .big-letter {
+    
+    font-size: 300%;
+    
+}
