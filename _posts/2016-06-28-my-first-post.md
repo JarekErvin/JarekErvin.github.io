@@ -9,4 +9,4 @@ I'm the best mayne, I tole you dat!
 
 Bing bong.
 
-![My helpful screenshot](https://jarekervin.github.io/Headshot.jpg)
+![My helpful screenshot](https://raw.githubusercontent.com/JarekErvin/JarekErvin.github.io/master/assets/screenshot.jpg)
