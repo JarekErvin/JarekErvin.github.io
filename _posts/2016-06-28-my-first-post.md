@@ -8,3 +8,5 @@ I'm the best mayne, I tole you dat!
 ...
 
 Bing bong.
+
+![My helpful screenshot]({{ site.url }}/assets/screenshot.jpg)
