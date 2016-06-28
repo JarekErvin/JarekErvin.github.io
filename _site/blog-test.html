@@ -1,6 +1,68 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html class="full" lang="en">
+<!-- Make sure the <html> tag is set to the .full CSS class. Change the background image in the full.css file. -->
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Jarek Paul Ervin</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/full.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+      <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/IhATCzS6o3RpMQAjmJdJLw/146422563727" data-did="db09c77f5421eeae694a68c8089f4b0a06decc3b" style="background-color: rgba(0, 0, 0, 0);"><a href="http://jarekervin.tumblr.com/post/146422563727/i-tole-you-dat" style="background-color: rgba(0, 0, 0, 0);">http://jarekervin.tumblr.com/post/146422563727/i-tole-you-dat</a></div>  <script async src="https://secure.assets.tumblr.com/post.js"></script>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation" >
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="blog-test.html">Jarek Paul Ervin</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="#" data-toggle="modal" data-target="#About">About</a>
+                    </li>
+                    <li>
+                        <a href="#" data-toggle="modal" data-target="#Vita">Vita</a>
+                    </li>
+                    <li>
+                        <a href="#" data-toggle="modal" data-target="#Contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
     <!-- Put your page content here! -->
     <div class="container">
       <!-- Modal -->
@@ -14,10 +76,10 @@ layout: default
               <h4 class="modal-title">About</h4>
             </div>
             <div class="modal-body">
-                <div class="about">
+                <div>
                     <img src="Headshot.jpg" alt="Jarek Ervin">
                 </div>
-                <div class="about">
+                <div>
         <p>Jarek Paul Ervin is a music scholar working at the intersection of musicology, cultural studies, philosophy, and social theory. Broadly, Ervin&rsquo;s thought investigates the overlapping and often conflicting dynamics of music as aesthetic practice, social force, historical inheritance, and a privileged window into the domain of sensory experience. Recent projects have investigated these concerns within a number of areas, including the early history of popular music studies, avant-garde musical aesthetics, and the recent resurgence of white supremacist music. Ervin&rsquo;s more general concerns include: popular music studies, music history, and music theory; gender and sexuality in music; and philosophy of music, especially German Idealism and critical theory (Luk&aacute;cs, Benjamin, Bloch, and Adorno).</p>
         <p>Ervin is currently a PhD candidate in University of Virginia&rsquo;s McIntire Department of Music. His dissertation concentrates on the fraught character of New York&rsquo;s iconic punk scene of the 1970s. Drawing on a range of archival, critical, and recorded materials, Ervin&rsquo;s project focuses on the way the category of punk served as a fragile placeholder for a range of artists including Velvet Underground, Jayne County, Patti Smith, the Ramones, and Blondie. Along the way, Ervin examines the way punk&rsquo;s elusive character carved out a unique space for re-evaluating music at the intersection of the historical, the discursive, and the aesthetic. Ultimately, this leads to an interrogation of broader issues related to genre theory, gender and sexual identity, and popular music&rsquo;s troubled history.</p>
         <p>&nbsp;</p>
@@ -53,7 +115,7 @@ layout: default
                  McIntire Department of Music<br>
                  University of Virginia<br>
                  <br>
-
+  
                  112 Old Cabell Hall<br>
                  P.O. Box 400176<br>
                  Charlottesville, VA 22904-4176<br>
@@ -142,86 +204,12 @@ http://iaspm-us.net/mixtape-series-2016-punk-rock-new-york-by-jarek-paulervin</l
         </div>
       </div>
     </div>
-
-        <div class="container">
-      <!-- Modal -->
-      <div class="modal fade" id="Blog" role="dialog">
-        <div class="modal-dialog">
-
-          <!-- Modal content-->
-          <div class="modal-content">
-            <div class="modal-header">
-              <button type="button" class="close" data-dismiss="modal">&times;</button>
-              <h4 class="modal-title">Blog</h4>
-            </div>
-            <div class="modal-body">
-              <div class="home">
-
-                <h1 class="page-heading">Posts</h1>
-
-                <ul class="post-list">
-                  {% for post in site.posts %}
-                    <li>
-                      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-                      <h2>
-                        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                      </h2>
-                    </li>
-                  {% endfor %}
-                </ul>
-
-                <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-              </div>
-            </div>
-            <div class="modal-footer">
-              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-            </div>
-          </div>
-
-        </div>
-      </div>
-    </div>
-
-
-<div class="container">
-      <!-- Modal -->
-      <div class="modal fade" id="Publications" role="dialog">
-        <div class="modal-dialog">
-
-          <!-- Modal content-->
-          <div class="modal-content">
-            <div class="modal-header">
-              <button type="button" class="close" data-dismiss="modal">&times;</button>
-              <h4 class="modal-title">Publications</h4>
-            </div>
-            <div class="modal-body">
-                <h5>ONLINE</h5>
-
-            <p><q>Inside the Green Room.</q> <em>Jacobin</em>. June 14, 2016.</p>
-
-            <p><q>Punk Rock New York.</q> <em>International Association for the Study of
-            Popular Music-US Website</em>. March 10, 2016.</p>
-            <br>
-
-            <h5>REVIEWS</h5>
-
-            <p><em>Networks of Sound, Style, and Subversion: The Punk and Post-Punk
-            Worlds of Manchester, London, Liverpool, and Sheffield, 1975-80</em>, by
-            Nick Crossley. <em>Popular Music</em> 35:02 (May, 2016): 291-293.</p>
-            </div>
-            <div class="modal-footer">
-              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-            </div>
-          </div>
-
-        </div>
-      </div>
-    </div>
-
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
