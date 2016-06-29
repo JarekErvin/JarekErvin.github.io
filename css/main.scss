@@ -85,7 +85,6 @@ body {
 .well-lg {
 
   margin-top: 65px;
-  box-shadow: 7px 7px 5px #888888;
 }
 
 .col-md-12 {
@@ -94,6 +93,7 @@ body {
 
 #post-body {
     background-color: transparent;
+    box-shadow: 7px 7px 5px #888888;
 }
 
 /* make keyframes that tell the start state and the end state of our object */
