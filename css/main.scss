@@ -128,6 +128,10 @@ body {
 	-webkit-animation:animatetop 1s;
 	animation:animatetop 1s;
 	
+	-webkit-animation-fill-mode:forwards;  /* this makes sure that after animation is done we remain at the last keyframe value (opacity: 1)*/
+	-moz-animation-fill-mode:forwards;
+	animation-fill-mode:forwards;
+	
 	-webkit-animation-delay: 500ms; /* Chrome, Safari, Opera */
     	animation-delay: 500ms;
 }
