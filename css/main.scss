@@ -137,8 +137,24 @@ body {
 	-webkit-animation-delay: 500ms; /* Chrome, Safari, Opera */
     	animation-delay: 500ms;
 }
+
+.slide-out {
+		opacity:1;
+	position:relative;
+	-webkit-animation:animateup 1s;
+	animation:animatetup 1s;
+	
+	-webkit-animation-fill-mode:forwards;  /* this makes sure that after animation is done we remain at the last keyframe value (opacity: 1)*/
+	-moz-animation-fill-mode:forwards;
+	animation-fill-mode:forwards;
+}
 	
 @-webkit-keyframes animatetop{
 	from{top:-700px;opacity:0} to{top:0;opacity:1}}
 	
 @keyframes animatetop{from{top:-700px;opacity:0} to{top:0;opacity:1}}
+
+@-webkit-keyframes animateup{
+	from{top:0;opacity:1} to{top:-700px;opacity:0}}
+	
+@keyframes animateup{from{top:0;opacity:1} to{top:-700;opacity:0}}
