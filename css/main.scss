@@ -47,17 +47,16 @@ $on-laptop:        800px;
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import{
+@import
         "base",
         "layout",
-        "syntax-highlighting"
-};
+        "syntax-highlighting";
 
 body {
     margin-top: 50px; /* Required margin for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
 
-#header-title {"Palatino Linotype", "Book Antiqua", Palatino, serif;}
+//#header-title {"Palatino Linotype", "Book Antiqua", Palatino, serif;}
 
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
 
