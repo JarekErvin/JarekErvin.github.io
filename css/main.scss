@@ -75,6 +75,12 @@ html {
 header ul li a:active {
 	transform: translateY(3px);
 }
+
+a#header-title {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 1.7em;
+}
+
 .page-wrap {
   min-height: 100%;
   /* equal to footer height */
