@@ -184,6 +184,18 @@ ul#footer-menu li {
     footer p {
         display: none;
     }
+    
+    
+	html {
+	    background: url(../background.jpg) no-repeat center center;
+	    background-attachment: fixed;
+	    
+	    background-size: cover;
+	    -webkit-background-size: cover;
+	    -moz-background-size: cover;
+	    -o-background-size: cover;
+	    
+	}
 }
 	
 	
