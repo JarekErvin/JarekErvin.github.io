@@ -71,6 +71,9 @@ html {
     
 }
 
+header ul li a:active {
+	transform: translateY(3px);
+}
 .page-wrap {
   min-height: 100%;
   /* equal to footer height */
