@@ -52,13 +52,6 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting";
 
-
-@media only screen and (max-width: 500px) {
-    footer p {
-        display: none;
-    }
-}
-
 body {
     margin-top: 50px; /* Required margin for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
@@ -187,6 +180,14 @@ ul#footer-menu li {
 	-moz-animation-fill-mode:forwards;
 	animation-fill-mode:forwards;
 }
+@media screen and (max-width: 480px) {
+    footer p {
+        display: none;
+    }
+}
+	
+	
+	
 	
 @-webkit-keyframes animatetop{
 	from{top:-700px;opacity:0} to{top:0;opacity:1}}
