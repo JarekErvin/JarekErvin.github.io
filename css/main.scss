@@ -124,7 +124,6 @@ footer p {
 img.social-icon {
 	height: 40px; 
 	width: 40px;
-	z-index: -1;
 }
 
 .vita div ul li {
@@ -143,6 +142,11 @@ img.social-icon {
 .col-md-12 {
   background: rgba(250, 250, 250, 0);
 }
+
+div#blog-post{
+	z-index: 1;
+}
+
 
 #post-body {
     background-color: transparent;
