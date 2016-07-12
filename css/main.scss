@@ -6,7 +6,7 @@
 
 
 // Our variables
-$base-font-family: Georgia, serif;
+$base-font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
@@ -86,9 +86,7 @@ a#header-title {
 }
 
 .about-img {
-	float: none;
-	margin-right: auto;
-	margin-left: auto;
+	text-align: center;
 }
 
 .page-wrap {
