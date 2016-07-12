@@ -75,6 +75,7 @@ html {
 .navbar {
 	   background-color: #f9faf5;
 	   border-color: #d1d0cb
+	   z-index: -1;
 	}
 header ul li a:active {
 	transform: translateY(3px);
