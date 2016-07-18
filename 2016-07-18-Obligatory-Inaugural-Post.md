@@ -1,6 +1,6 @@
-…
+---
 layout: post
-…
+---
 
 
 Hey everyone. Here is my first blog post. I’m going to dispense with a ceremony or manifesto, since I’ve got some other things I’d like to post about right away. In the meantime though, I figured I could at least call attention to two recent projects I’ve worked on:
