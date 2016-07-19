@@ -7,7 +7,7 @@ Hey everyone. Here is my first blog post. I’m going to dispense with a ceremon
 
 The first is a mixtape I made for IASPM-US. I’m really into mixtapes these days, and I thought it would be fun to make one for the great series IASPM runs on their website. I put together a collection of 1970s punk music that I’ve come across during my dissertation research. Essentially, the goal was to highlight things that fall outside of the standard narrative about punk – the “Ramones looking tough in leather jackets” story – that gets repeated regularly. I included a short set of liner notes with the tape saying… pretty much that.
 
-Read and listen [here](http://iaspm-us.net/mixtape-series-2016-punk-rock-new-york-by-jarek-paul-ervin/ "IASPM-US Blog Post").
+Read and listen [here](http://iaspm-us.net/mixtape-series-2016-punk-rock-new-york-by-jarek-paul-ervin/ "IASPM-US Blog Post"){:target="blank"}.
 
 The second piece I’d like to circulate is an article that came out *Jacobin* magazine last month. I’ve been really excited about the magazine since they started a few years ago. They publish great, accessible writing on left wing political issues, and they’ve been really smart about using the internet. Really, I think they are one of the more interesting platforms politics today. And they are definitely one that trumps the otherwise click-baity and opportunistic engagement I usually see when big internet platforms try to talk about political issues.
 
