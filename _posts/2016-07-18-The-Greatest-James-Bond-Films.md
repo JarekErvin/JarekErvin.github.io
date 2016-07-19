@@ -14,11 +14,13 @@ But honestly, I don’t even care to give some grand theory of why I’m doing t
 5. *The Spy Who Loved Me* (Roger Moore/Lewis Gilbert, 1977)
 
 *The Spy Who Loved Me* belongs on here because it’s the best *worst* Bond. Don’t get me wrong: Roger Moore’s portrayal of the character is truly classic. But his wry humor and aristocratic persona are emblematic, not so much because he nails Bond, but because they appear unchanged by the times. His Bond is like Sterling Archer… aloof yet virtuosic, all the while clad in that beloved black turtleneck.
+
 <br>
 <p align="center">
 <img src="https://jarekervin.github.io/img_mooreturtle.jpg" alt="Moore in Turtleneck">
 </p>
 <br>
+
 That said: most of his movies just weren’t good. They stood curiously at odds with Moore’s perennial character. His run struggled with its era, often opting for bowdlerizing genre flicks or ham-handed trendiness. I’m glad *A View to a Kill* gave us a Grace Jones/Walken/Duran Duran Bond, but it didn’t convince me we needed one.
 
 *The Spy Who Loved Me* found a perfect place between the timely and the timeless. It dragged Bond into the seventies even as it doubled down on his characteristic lexicon. Moore’s run was full of bell-bottom suits and cartoonishly wide ties. But he always spoke fluently in the Bond language. The gadgets and gizmos, the supervillians… they were all there. *The Spy* did it better than the rest. From Stromberg’s arachnid sea lab, to ski chases, helicopter battles, and the legendary white, scuba diving Lotus Esprit S1... This makes the film the first truly modern Bond.
@@ -63,6 +65,7 @@ And yet, the movie shimmers with a dreamlike quality. It is unrivaled in its ele
 <img src="https://jarekervin.github.io/img_skyfall.jpg" alt="Skyfall">
 </p>
 <br>
+
 (I just had to keep that one in color). Bond himself is hazy. Craig’s Bond has been lauded for being pathos-ridden, something that definitely comes out in the first two films of his run. But Skyfall makes it clear this has nothing to do with his biography. Rather, he carries the sad, emptiness of the Bond series itself. *Skyfall* suggests that our hero is an empty placeholder, a perpetual wrench in a machine of his own design. When asked by Kincaid who he is fighting, Craig gives no answer because he has none to give. Skyfall Manor tells us nothing about Bond, not about his origins nor the source of his sorrow. It is a feint. Cloth shrouds hide the fact that there is nothing underneath.
 
 Silva is the villain insofar as he understands this. He is classic, of course: sinister and brilliant (and queer, finally overtly lusting after Bond as so many of them seemed quietly to do). But here his power is enlisted solely for the purpose of haunting Bond. In the end, as he orders his chopper to fire on Bond’s beloved Aston Martin, it becomes clear he does so simply to scorn the legacy.
@@ -81,6 +84,7 @@ Some of its glories rest on Connery. This is one of the greatest Bond performanc
 <img src="https://jarekervin.github.io/img_connery.jpg" alt="Connery in very little">
 </p>
 <br>
+
 In the midst of a high-speed flirtation/drag race through the Alps, Bond mutters “Discipline, 007. Discipline!,” reminding himself of his duty. Connery’s strength was in knowing full well that Bond could never quite own the thought.
 
 In the end, it never mattered what he believed. Bond’s sole purpose lies in tarrying with the enemy. Goldfinger was a perfect rogue to match Connery’s perfect Bond. Devious, cold, and power-hungry, he embodied the franchise’s greatest fears. Not just in league with the communists, he was worse. Insidious and omnipresent evil. Though his ostensible motive was profit, his ultimate aim was opposition to the hero, and so he stood in for sheer villainy. His iconic retort when Bond asks if he was expecting torture to yield information – “No Mr. Bond, I expect you to die!” – is a manifesto that has defined fifty years of the franchise.
