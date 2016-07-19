@@ -1,6 +1,6 @@
-___
+---
 layout: post
-___
+---
 
 Following up (what I hope was) a thoughtful piece on the state of arts criticism today, I figured I’d offer something more… modest… by comparison. Here, mostly just because I like making lists and watching movies, is a countdown of my five favorite James Bond movies.
 
