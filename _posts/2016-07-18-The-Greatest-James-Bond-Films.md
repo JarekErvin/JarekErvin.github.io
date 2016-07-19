@@ -12,6 +12,7 @@ But honestly, I don’t even care to give some grand theory of why I’m doing t
 
 <br>
 5. *The Spy Who Loved Me* (Roger Moore/Lewis Gilbert, 1977)
+--------
 
 *The Spy Who Loved Me* belongs on here because it’s the best *worst* Bond. Don’t get me wrong: Roger Moore’s portrayal of the character is truly classic. But his wry humor and aristocratic persona are emblematic, not so much because he nails Bond, but because they appear unchanged by the times. His Bond is like Sterling Archer… aloof yet virtuosic, all the while clad in that beloved black turtleneck.
 
