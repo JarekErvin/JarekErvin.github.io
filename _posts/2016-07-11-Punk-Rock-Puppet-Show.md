@@ -23,7 +23,7 @@ Though clumsy, *CBGB* is telling in many ways. It arrived just before our curren
 
 ![alt text](https://jarekervin.github.io/img_ramones.jpg "Cover of the Ramones' debut album")
 
-
+<br>
 While I’m glad to see a topic I’m personally and professionally invested in getting press, I still think we need a good reason for talking about it. In the instances just mentioned above, it’s not clear *why* we should be interested in punk again. Many of the sources talking about punk simply rehearse the same old history, indexing something without really evaluating it. It often feels like we are puppeting punk history, or dressing up in Dee Dee drag.
 
 *CBGB* is at least pretty central to *that* story, at least when read against the historical backdrop. It is the great puppet-show of the new punk revival. But it still might be more fun to read <a href="https://en.wikipedia.org/wiki/CBGB" target="blank"> the Wikipedia page</a>.
