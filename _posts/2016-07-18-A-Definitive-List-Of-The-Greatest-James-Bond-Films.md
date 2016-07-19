@@ -14,9 +14,11 @@ But honestly, I don’t even care to give some grand theory of why I’m doing t
 5. *The Spy Who Loved Me* (Roger Moore/Lewis Gilbert, 1977)
 
 *The Spy Who Loved Me* belongs on here because it’s the best *worst* Bond. Don’t get me wrong: Roger Moore’s portrayal of the character is truly classic. But his wry humor and aristocratic persona are emblematic, not so much because he nails Bond, but because they appear unchanged by the times. His Bond is like Sterling Archer… aloof yet virtuosic, all the while clad in that beloved black turtleneck.
+<br>
 
-![alt text](https://jarekervin.github.io/img_mooreturtle.jpg "Moore in turtleneck")
+<img src="https://jarekervin.github.io/img_mooreturtle.jpg" alt="Moore in Turtleneck" align="middle">
 
+<br>
 That said: most of his movies just weren’t good. They stood curiously at odds with Moore’s perennial character. His run struggled with its era, often opting for bowdlerizing genre flicks or ham-handed trendiness. I’m glad *A View to a Kill* gave us a Grace Jones/Walken/Duran Duran Bond, but it didn’t convince me we needed one.
 
 *The Spy Who Loved Me* found a perfect place between the timely and the timeless. It dragged Bond into the seventies even as it doubled down on his characteristic lexicon. Moore’s run was full of bell-bottom suits and cartoonishly wide ties. But he always spoke fluently in the Bond language. The gadgets and gizmos, the supervillians… they were all there. *The Spy* did it better than the rest. From Stromberg’s arachnid sea lab, to ski chases, helicopter battles, and the legendary white, scuba diving Lotus Esprit S1... This makes the film the first truly modern Bond.
