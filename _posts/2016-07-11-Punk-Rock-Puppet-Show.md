@@ -24,4 +24,4 @@ Though clumsy, *CBGB* is telling in many ways. It arrived just before our curren
 
 While I’m glad to see a topic I’m personally and professionally invested in getting press, I still think we need a good reason for talking about it. In the instances just mentioned above, it’s not clear *why* we should be interested in punk again. Many of the sources talking about punk simply rehearse the same old history, indexing something without really evaluating it. It often feels like we are puppeting punk history, or dressing up in Dee Dee drag.
 
-*CBGB* is at least pretty central to *that* story, at least when read against its historical backdrop. It is the great puppet-show of the new punk revival. But it still might be more fun to read [the Wikipedia](https://en.wikipedia.org/wiki/CBGB “The CBGB Wikipedia Page”).
+*CBGB* is at least pretty central to *that* story, at least when read against the historical backdrop. It is the great puppet-show of the new punk revival. But it still might be more fun to read [the Wikipedia](https://en.wikipedia.org/wiki/CBGB “The CBGB Wikipedia Page”).
