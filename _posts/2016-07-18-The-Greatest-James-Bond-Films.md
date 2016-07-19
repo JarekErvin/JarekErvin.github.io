@@ -60,7 +60,7 @@ And yet, the movie shimmers with a dreamlike quality. It is unrivaled in its ele
 
 <br>
 <p align="center">
-![alt text](https://jarekervin.github.io/img_skyfall.jpg "Skyfall")
+<img src="https://jarekervin.github.io/img_skyfall.jpg" alt="Skyfall">
 </p>
 <br>
 (I just had to keep that one in color). Bond himself is hazy. Craig’s Bond has been lauded for being pathos-ridden, something that definitely comes out in the first two films of his run. But Skyfall makes it clear this has nothing to do with his biography. Rather, he carries the sad, emptiness of the Bond series itself. *Skyfall* suggests that our hero is an empty placeholder, a perpetual wrench in a machine of his own design. When asked by Kincaid who he is fighting, Craig gives no answer because he has none to give. Skyfall Manor tells us nothing about Bond, not about his origins nor the source of his sorrow. It is a feint. Cloth shrouds hide the fact that there is nothing underneath.
@@ -78,7 +78,7 @@ Some of its glories rest on Connery. This is one of the greatest Bond performanc
 
 <br>
 <p align="center">
-![alt text](https://jarekervin.github.io/img_connery.jpg "Connery in very little")
+<img src="https://jarekervin.github.io/img_connery.jpg" alt="Connery in very little">
 </p>
 <br>
 In the midst of a high-speed flirtation/drag race through the Alps, Bond mutters “Discipline, 007. Discipline!,” reminding himself of his duty. Connery’s strength was in knowing full well that Bond could never quite own the thought.
