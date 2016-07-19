@@ -15,9 +15,9 @@ But honestly, I don’t even care to give some grand theory of why I’m doing t
 
 *The Spy Who Loved Me* belongs on here because it’s the best *worst* Bond. Don’t get me wrong: Roger Moore’s portrayal of the character is truly classic. But his wry humor and aristocratic persona are emblematic, not so much because he nails Bond, but because they appear unchanged by the times. His Bond is like Sterling Archer… aloof yet virtuosic, all the while clad in that beloved black turtleneck.
 <br>
-
-<img src="https://jarekervin.github.io/img_mooreturtle.jpg" alt="Moore in Turtleneck" align="middle">
-
+<p align="center">
+<img src="https://jarekervin.github.io/img_mooreturtle.jpg" alt="Moore in Turtleneck">
+</p>
 <br>
 That said: most of his movies just weren’t good. They stood curiously at odds with Moore’s perennial character. His run struggled with its era, often opting for bowdlerizing genre flicks or ham-handed trendiness. I’m glad *A View to a Kill* gave us a Grace Jones/Walken/Duran Duran Bond, but it didn’t convince me we needed one.
 
