@@ -59,8 +59,9 @@ Indeed, in many ways, the film is curiously textbook. It surpasses even the clum
 And yet, the movie shimmers with a dreamlike quality. It is unrivaled in its elegance. Every scene is a portrait. It is almost Inception-esque.
 
 <br>
+<p align="center">
 ![alt text](https://jarekervin.github.io/img_skyfall.jpg "Skyfall")
-
+</p>
 <br>
 (I just had to keep that one in color). Bond himself is hazy. Craig’s Bond has been lauded for being pathos-ridden, something that definitely comes out in the first two films of his run. But Skyfall makes it clear this has nothing to do with his biography. Rather, he carries the sad, emptiness of the Bond series itself. *Skyfall* suggests that our hero is an empty placeholder, a perpetual wrench in a machine of his own design. When asked by Kincaid who he is fighting, Craig gives no answer because he has none to give. Skyfall Manor tells us nothing about Bond, not about his origins nor the source of his sorrow. It is a feint. Cloth shrouds hide the fact that there is nothing underneath.
 
@@ -76,8 +77,9 @@ But it was Sean Connery’s 1964 Aston Martin DB5 that Silva had to destroy. *Go
 Some of its glories rest on Connery. This is one of the greatest Bond performances, laying out all of the character’s contradictions with crystal clarity. Ever at odds with an order he existed solely to defend, Connery’s Bond was one part ideologue, one part hero, and one part thrill-seeker. One foot in the old world aristocracy and one in the swinging sixties, he sipped Don Perignon ’53 just as comfortably as he sat by the pool.
 
 <br>
+<p align="center">
 ![alt text](https://jarekervin.github.io/img_connery.jpg "Connery in very little")
-
+</p>
 <br>
 In the midst of a high-speed flirtation/drag race through the Alps, Bond mutters “Discipline, 007. Discipline!,” reminding himself of his duty. Connery’s strength was in knowing full well that Bond could never quite own the thought.
 
