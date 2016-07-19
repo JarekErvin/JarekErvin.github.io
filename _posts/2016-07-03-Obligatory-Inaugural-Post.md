@@ -3,7 +3,7 @@ layout: post
 ---
 
 
-Hey everyone. Here is my first blog post. I’m going to dispense with a ceremony or manifesto, since I’ve got some other things I’d like to post about right away. In the meantime though, I figured I could at least call attention to two recent projects I’ve worked on:
+Hey everyone. Here is my first blog post. I’m going to dispense with ceremony or manifesto, since I’ve got some other things I’d like to post about right away. In the meantime though, I figured I could at least call attention to two recent projects I’ve worked on:
 
 The first is a mixtape I made for IASPM-US. I’m really into mixtapes these days, and I thought it would be fun to make one for the great series IASPM runs on their website. I put together a collection of 1970s punk music that I’ve come across during my dissertation research. Essentially, the goal was to highlight things that fall outside of the standard narrative about punk – the “Ramones looking tough in leather jackets” story – that gets repeated regularly. I included a short set of liner notes with the tape saying… pretty much that.
 
