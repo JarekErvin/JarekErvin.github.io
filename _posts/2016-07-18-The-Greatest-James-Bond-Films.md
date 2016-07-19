@@ -29,7 +29,7 @@ That said: most of his movies just weren’t good. They stood curiously at odds 
 Of course, it still is campy as possible. Moore spends the movie battling a shark-obsessed baddie and his metal-mouthed henchman Jaws to a funk soundtrack (also, did I mention his monstrous ties?). But this movie made the best case that James Bond is camp… and guaranteed his icon status in the process.
 
 <br>
-4. *Goldeneye* (Pierce Brosnan/Martin Campbell, 1995)
+###4. *Goldeneye* (Pierce Brosnan/Martin Campbell, 1995)###
 
 This movie is a tad controversial. Brosnan has a well-deserved bad rep. Most of his movies suck pretty hard. But I find *Goldeneye* truly invigorating, because it is the first film to offer a solid evaluation of Bond’s socio-historical dimensions.
 
@@ -40,7 +40,7 @@ From high-tech devices to genre parody to about fifteen straight films stumbling
 Brosnan is the perfect Bond to wrestle with that possibility. The consummate ‘90s man, he departs from the airs that sustained Connery (and that made Moore ridiculous). Brosnan is elegant without aristocracy, a Bond for a brave new world in which secret agents hobnob with bureaucrats rather than the waning princely class. Meanwhile, said bureaucrats, Judi Dench’s masterful M and Joe Don Baker’s CIA agent on permanent vacation, support him without really knowing why. And his enemies – ex-Soviet bureaucrats, mobsters, military men, and an MI6-agent-turned-supervillain who demands Bond admit that he has no real cause – all struggle with what it means to be a villain after the Evil Empire.
 
 <br>
-3. *On Her Majesty’s Secret Service* (George Lazenby/Peter R. Hunt, 1969)
+###3. *On Her Majesty’s Secret Service* (George Lazenby/Peter R. Hunt, 1969)###
 
 This is the Bond film people love to rescue, despite it being pretty well regarded. It usually places in the top five on critical lists, often with some coy line from the writer about how underrated it is and how brave they are for putting it there. I’ve got no rescuing to do here. The film is a shoe-in for a top place, and it deserves it.
 
@@ -51,7 +51,7 @@ But the film is truly great for a different reason. Lazenby does have a deserved
 Really, *On Her Majesty* is a credo for the freewheelin’ James Bond. The ending is a *lieto fine* in reverse, an attempt to restore order to a universe potentially destabilized by Bond finally finding peace. It is in this sense, not the common one, that the film is so dark and tragic. It reveals that Bond is doomed to wander the earth, alone. For this reason, the moment of pathos isn’t that final one where he mutters, “it’s alright, it’s alright.” It is in the look he gives Moneypenny on his wedding day.
 
 <br>
-2. *Skyfall* (Daniel Craig/Sam Mendes, 2012)
+###2. *Skyfall* (Daniel Craig/Sam Mendes, 2012)###
 
 *Skyfall* is by far the most brilliant Bond movie. It may never be surpassed in depth. The film enacts in form what *Goldeney*e does in content. It is powerful, not for the muddled claims about technology (that’s the least convincing element, a franchise cliché masquerading as a new insight into the digital age). 
 
@@ -72,7 +72,7 @@ And yet, the movie shimmers with a dreamlike quality. It is unrivaled in its ele
 Silva is the villain insofar as he understands this. He is classic, of course: sinister and brilliant (and queer, finally overtly lusting after Bond as so many of them seemed quietly to do). But here his power is enlisted solely for the purpose of haunting Bond. In the end, as he orders his chopper to fire on Bond’s beloved Aston Martin, it becomes clear he does so simply to scorn the legacy.
 
 <br>
-1. *Goldfinger* (Sean Connery/Guy Hamilton, 1964)
+###1. *Goldfinger* (Sean Connery/Guy Hamilton, 1964)###
 
 There is one consistency in *best of* lists: *Goldfinger* always wins. This is no different. *Goldfinger* always wins. And it deserves to. It is *the* Bond movie. Moore formalized the language, Brosnan brought it out of the Cold War, and Craig even tried to tear the edifice down…
 
