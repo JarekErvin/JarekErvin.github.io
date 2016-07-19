@@ -8,7 +8,7 @@ This is the outgrowth of a 6-month marathon of the whole series in Spring 2013. 
 
 I’ve also started to read best Bond lists, which have been interesting and frustrating. There are some consistencies, but few seem to agree why certain films are ranked the way they are. And their justifications are usually weird, based on some random feature or objection to something trivial. If nothing else, I’ve tried to justify my rankings a bit better in the mini-essays below.
 
-But honestly, I don’t even care to give some grand theory of why I’m doing this… I just like James Bond. Obviously, this list isn’t really meant to be definitive (but it’s just not my fault that it happens to be).
+But honestly, I don’t even care to give some grand theory of why I’m doing this… I just like James Bond. Obviously, the title is a joke. This list isn’t really meant to be definitive... it’s just not my fault that it happens to be.
 
 <br>
 ###5. *The Spy Who Loved Me* (Roger Moore/Lewis Gilbert, 1977)###
