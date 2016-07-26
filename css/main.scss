@@ -87,6 +87,7 @@ html {
 }
 
 #nav-icon1, #nav-icon2, #nav-icon3 {
+  z-index: 1;
   -webkit-transform: rotate(0deg);
   -moz-transform: rotate(0deg);
   -o-transform: rotate(0deg);
