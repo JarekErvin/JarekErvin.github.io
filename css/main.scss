@@ -111,6 +111,52 @@ html {
   transition: .25s ease-in-out;
 }
 
+
+#nav-icon2 span:nth-child(1) {
+  top: 0px;
+}
+
+#nav-icon2 span:nth-child(2) {
+  top: 18px;
+}
+
+#nav-icon2 span:nth-child(3) {
+  top: 36px;
+}
+
+#nav-icon2 span:nth-child(4) {
+  top: 18px;
+  visibility: none;
+}
+
+#nav-icon2.open span:nth-child(1) {
+   left: 30px;
+   width: 0;
+   top: 18px;
+}
+
+#nav-icon2.open span:nth-child(2) {
+  -webkit-transform: rotate(135deg);
+  -moz-transform: rotate(135deg);
+  -o-transform: rotate(135deg);
+  transform: rotate(135deg);
+}
+
+#nav-icon2.open span:nth-child(3) {
+   left: 30px;
+   width: 0;
+   top: 18px;
+
+}
+
+#nav-icon2.open span:nth-child(4) {
+  opacity: 1;
+  -webkit-transform: rotate(-135deg);
+  -moz-transform: rotate(-135deg);
+  -o-transform: rotate(-135deg);
+  transform: rotate(-135deg);
+}
+
 header ul li a:active {
 	transform: translateY(3px);
 }
