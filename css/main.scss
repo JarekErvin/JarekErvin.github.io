@@ -81,6 +81,10 @@ html {
 .navbar-nav{
 	font-family: "Century Gothic", Optima, sans-serif;
 }
+
+.navbar-toggle {
+	border: none;
+}
 header ul li a:active {
 	transform: translateY(3px);
 }
