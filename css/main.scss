@@ -87,9 +87,11 @@ html {
 }
 
 #nav-icon1, #nav-icon2, #nav-icon3 {
+  display: inline-block;
   width: 30px;
   height: 22.5px;
   position: relative;
+  float: right;
   margin: 25px auto;
   -webkit-transform: rotate(0deg);
   -moz-transform: rotate(0deg);
