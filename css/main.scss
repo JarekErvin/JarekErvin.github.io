@@ -99,6 +99,7 @@ html {
 }
 
 #nav-icon1 span, #nav-icon2 span, #nav-icon3 span {
+  position: absolute;
   opacity: 1;
   left: 0;
   -webkit-transform: rotate(0deg);
