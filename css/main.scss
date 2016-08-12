@@ -291,10 +291,15 @@ a#header-title {
   display: block;
 }
 
+/* Posts */
 .post-list > li {
 	margin-bottom: 10px;
 }
 
+.post-title {
+	font-family: "Century Gothic", Optima, sans-serif;
+	font-size: 2.5em;
+}
  .site-footer, .page-wrap:after {
       height: 70px;
  }
@@ -412,6 +417,10 @@ ul#footer-menu li {
 	-webkit-animation-fill-mode:forwards;  /* this makes sure that after animation is done we remain at the last keyframe value (opacity: 1)*/
 	-moz-animation-fill-mode:forwards;
 	animation-fill-mode:forwards;
+}
+
+.well {
+	background-color: #fff;
 }
 @media screen and (max-width: 480px) {
     footer p {
