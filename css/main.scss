@@ -357,7 +357,8 @@ div#blog-post{
 }
 
 #post-content {
-  box-shadow: 0 5px 15px rgba(0,0,0,.5);	
+  box-shadow: 0 5px 15px rgba(0,0,0,.5);
+  background-color: #fff;
 }
 /* make keyframes that tell the start state and the end state of our object */
  
@@ -419,9 +420,6 @@ ul#footer-menu li {
 	animation-fill-mode:forwards;
 }
 
-.well {
-	background-color: #fff;
-}
 @media screen and (max-width: 480px) {
     footer p {
         display: none;
