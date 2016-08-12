@@ -455,3 +455,11 @@ ul#footer-menu li {
 	from{top:0;opacity:1} to{top:-700px;opacity:0}}
 	
 @keyframes animateup{from{top:0;opacity:1} to{top:-700;opacity:0}}
+
+/* Responsive Stuff */
+@screen only and (max-width: 767px) {
+	#blog-post {
+		padding-right: 0;
+		padding-left: 0;
+	}
+}
