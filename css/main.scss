@@ -458,7 +458,7 @@ ul#footer-menu li {
 
 /* Responsive Stuff */
 @screen only and (max-width: 767px) {
-	div#blog-post {
+	.w3-animate-top {
 		padding-right: 0;
 		padding-left: 0;
 	}
