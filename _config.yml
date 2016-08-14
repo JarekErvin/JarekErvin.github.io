@@ -7,10 +7,10 @@
 
 # Site settings
 title: Jarek Paul Ervin
-email: your-email@domain.com
+email: jpe5bk@virginia.edu
 description: "@Copyright Jarek Paul Ervin. All Rights Reserved"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://jarekpaulervin.com" # the base hostname & protocol for your site
 twitter_username: jarekpaulervin
 #github_username:  jekyll
 
