@@ -349,9 +349,7 @@ Symposium</em>. Temple University (October 10, 2011).</li>
          <div class="post-content" itemprop="articleBody">
            {{ content }}
          </div>
-
-         <div class="modal-footer">
-                    <ul class="pager">
+            <ul class="pager">
           {% if page.previous.url %}
             <li class="previous">
               <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
@@ -363,6 +361,7 @@ Symposium</em>. Temple University (October 10, 2011).</li>
               </li>
                     {% endif %}
                 </ul>
+         <div class="modal-footer">
           <button type="button" class="btn btn-default" onclick="myFunction()">Close</button>
         </div>
        </article>
