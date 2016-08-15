@@ -18,12 +18,9 @@ But honestly, I don’t even care to give some grand theory of why I’m doing t
 
 <br>
 <p align="center">
+<a href="http://gentsamongmen.com/wear-your-turtleneck-like-james-bond/" target="blank">
 <img src="https://jarekervin.github.io/img_mooreturtle.jpg" alt="Moore in Turtleneck">
-</p>
-<p align="center">
-<font size="6">
-<a href="http://gentsamongmen.com/wear-your-turtleneck-like-james-bond/" target="blank">image source</a>
-</font>
+</a>
 </p>
 <br>
 
