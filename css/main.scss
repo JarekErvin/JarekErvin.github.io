@@ -421,11 +421,10 @@ ul#footer-menu li {
 }
 
 @media screen and (max-width: 480px) {
-    footer p {
-        display: none;
-    }
-    
-    
+    	footer p {
+	 display: none;
+    	}
+ 
 	body {
 	    background: url(../background-mobile.jpg) no-repeat fixed;
 	}
