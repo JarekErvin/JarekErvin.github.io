@@ -6,19 +6,20 @@ Following up (what I hope was) a thoughtful piece on the state of arts criticism
 
 This is the outgrowth of a 6-month marathon I did of the whole series in Spring 2013. I’ve been a huge fan of the franchise since I was a kid. My dad and I watched the films on repeat, and it’s become a big part of my life. As an adult, I’ve continued to watch the series and think about it. Though I had seen most of the movies, I finally filled in some of the gaps in my knowledge by watching all of the films in order.
 
-While watching, I started to read best Bond lists. The process was both interesting and frustrating. I think I learned a lot from reading about the films, but a few things were frustrating (I guess that's what I get for reading and contributing to an odd/pointless genre like best of lists). There are some consistencies, but few seem to agree why certain films are ranked the way they are. And their justifications are usually weird, based on some random feature or objection to something trivial. If nothing else, I’ve tried to justify my rankings a bit better in the mini-essays below.
+While watching, I periodically glanced at best Bond articles. The process was both interesting and frustrating. I think I learned a lot from reading about the films, but a few things didn't sit right (I guess that's what I get for reading and contributing to an odd/pointless genre like best of lists). There are some consistencies, but few seem to agree why certain films are ranked the way they are. And their justifications are usually weird, based on some random feature or objection to something trivial. If nothing else, I’ve tried to justify my rankings a bit better in the mini-essays below.
 
-But honestly, I don’t even care to give some grand theory of why I’m doing this. I'm not even sure all of what I'm saying is that original, although some of my takes are pretty hot if I do say so myself. Really though, I just like James Bond. Obviously, the title is a joke. This list isn’t really meant to be definitive... it’s just not my fault that it happens to be.
+But honestly, I don’t even care to give some grand theory of why I’m doing this. I'm not even sure all of what I'm saying is that original, although some of my takes are pretty hot if I do say so myself. Really though, I just like James Bond. Obviously, the title is a joke. This list isn’t really meant to be definitive. it’s just not my fault that it happens to be.
 
 <br>
 **5. *The Spy Who Loved Me* (Roger Moore/Lewis Gilbert, 1977)**
 
 
-*The Spy Who Loved Me* belongs on here because it’s the best *worst* Bond. Don’t get me wrong: Roger Moore’s portrayal of the character is truly classic. Granted, Moore proves himself to be a bigger asshole by the day (I mean, casting Idris Elba as Bond is quite possibly one of the best ideas put forth in the history of the franchise). But his wry humor and aristocratic persona are emblematic. This is not so much because he nails Bond, but because he appears unswayed by the changing times. His Bond is like Sterling Archer… aloof yet virtuosic, all the while clad in that beloved black turtleneck.
+*The Spy Who Loved Me* belongs on here because it’s the best *worst* Bond. Don’t get me wrong: Roger Moore’s portrayal of the character is truly classic. (Of course, Moore proves himself to be a bigger asshole by the day; I mean, casting Idris Elba as Bond is quite possibly one of the best ideas put forth in the history of the franchise). But his wry humor and aristocratic persona are still emblematic for the franchise. This is not so much because he nails Bond, but because he appears unswayed by the changing times. His Bond is like Sterling Archer… aloof yet virtuosic, all the while clad in that beloved black turtleneck.
 
 <br>
 <p align="center">
 <img src="https://jarekervin.github.io/img_mooreturtle.jpg" alt="Moore in Turtleneck">
+<a href="http://gentsamongmen.com/wear-your-turtleneck-like-james-bond/" target="blank">image source</a>
 </p>
 <br>
 
