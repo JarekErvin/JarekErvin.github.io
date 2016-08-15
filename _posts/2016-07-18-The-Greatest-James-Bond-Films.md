@@ -19,8 +19,8 @@ But honestly, I don’t even care to give some grand theory of why I’m doing t
 <br>
 <p align="center">
 <img src="https://jarekervin.github.io/img_mooreturtle.jpg" alt="Moore in Turtleneck">
-<a href="http://gentsamongmen.com/wear-your-turtleneck-like-james-bond/" target="blank">image source</a>
 </p>
+<a href="http://gentsamongmen.com/wear-your-turtleneck-like-james-bond/" target="blank">image source</a>
 <br>
 
 That said: most of his movies just weren’t good. They stood curiously at odds with Moore’s perennial character. His run struggled with its era, often opting for bowdlerizing genre flicks or ham-handed trendiness. His films are drenched in camp. I’m glad *A View to a Kill* gave us a Grace Jones/Walken/Duran Duran Bond, but it didn’t convince me we needed one.
