@@ -61,9 +61,11 @@ Indeed, in many ways, the film is curiously textbook. It surpasses even the clum
 
 And yet, the movie shimmers with a dreamlike quality. It is staggering in its elegance. Every scene is a portrait. The film almost looks as much like *Inception* as it does *Casino Royale*.
 
-<br>
+br>
 <p align="center">
+<a href="https://www.youtube.com/watch?v=jTzSh-bUnwQ" target="blank">
 <img src="https://jarekervin.github.io/img_skyfall.jpg" alt="Skyfall">
+</a>
 </p>
 <br>
 
@@ -82,7 +84,9 @@ Some of its glories rest on Connery. This is one of the greatest Bond performanc
 
 <br>
 <p align="center">
+<a href="http://affordablebond007.blogspot.com/2010/02/goldfinger-miami-swim-trunks.html" target="blank">
 <img src="https://jarekervin.github.io/img_connery.jpg" alt="Connery in very little">
+</a>
 </p>
 <br>
 
