@@ -420,24 +420,7 @@ ul#footer-menu li {
 	animation-fill-mode:forwards;
 }
 
-@media screen and (max-width: 480px) {
-    	footer p {
-	 display: none;
-    	}
- 
-	body {
-	    background: url(../background-mobile.jpg) no-repeat fixed;
-	}
-	
-	img.social-icon {
-	height: 50px; 
-	width: 50px;
-	}
-}
-	
-	
-	
-	
+
 @-webkit-keyframes animatetop{
 	from{top:-700px;opacity:0} to{top:0;opacity:1}}
 	
@@ -453,5 +436,20 @@ ul#footer-menu li {
 	#blog-post {
 		padding-right: 0;
 		padding-left: 0;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+    	footer p {
+	 display: none;
+    	}
+ 
+	body {
+	    background: url(../background-mobile.jpg) no-repeat fixed;
+	}
+	
+	img.social-icon {
+	height: 50px; 
+	width: 50px;
 	}
 }
