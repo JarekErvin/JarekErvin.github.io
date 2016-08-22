@@ -22,7 +22,7 @@ In my book, if you want to evaluate a Mahler 1 recording, skip to the second and
 <br>
 **Symphony No. 02: Mehta with Vienna (1975)**
 
-Mehta’s beloved Mahler 2 is one of the truly special records on my shelf. The first movement is staggering. The opening funeral march is played with a fury unmatched by any other set I’ve listened to, and yet Mehta always knows when to pull back or blend. The contrasting “Gesang” theme is luminescent, and “Urlicht,” here sung by the amazing Christa Ludwig, can’t be touched by anything other version on my shelf. Rattle’s equally famous 2 with <a href="hhttps://www.youtube.com/watch?v=BwRPYijLygA" target="blank">Birmingham</a> or Klemperer's <a href="https://www.youtube.com/watch?v=D7xcgOQK7cc" target="blank">Munich read</a> are close seconds, but I'd reach for the Mehta over them any day.
+Mehta’s beloved Mahler 2 is one of the truly special records on my shelf. The first movement is staggering. The opening funeral march is played with a fury unmatched by any other set I’ve listened to, and yet Mehta always knows when to pull back or blend. The contrasting “Gesang” theme is luminescent, and “Urlicht,” here sung by the amazing Christa Ludwig, can’t be touched by anything other version on my shelf. Rattle’s equally famous 2 with <a href="https://www.youtube.com/watch?v=BwRPYijLygA" target="blank">Birmingham</a> or Klemperer's <a href="https://www.youtube.com/watch?v=D7xcgOQK7cc" target="blank">Munich read</a> are close seconds, but I'd reach for the Mehta over them any day.
 
 <br>
 **Symphony No. 03: Horenstein with LSO (1970)**
