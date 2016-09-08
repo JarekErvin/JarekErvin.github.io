@@ -276,9 +276,11 @@ a#header-title {
 
 .about-img {
 	text-align: center;
+	max-width: 400px;
 }
 
 .about-img img {
+	width: 100%;
 	max-width: 400px;
 }
 
