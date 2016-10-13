@@ -2,7 +2,7 @@
 layout: post
 ---
 
-I’ve been slacking on updating the blog, mostly because I’ve been trying to focus on my diss and a few other projects I’ve been working on. I at least had time to write this piece, a sketch for the theoretical section that will eventually appear in my diss introduction. That will be in some heavily modified form, anyway. I’ll have to tweak it to make it a workable intro, since here I don’t talk about punk or anything else musical, really. I’d also like to expand it into a more general methodological essay down the road (which will require reorganizing and expanding, adding examples from outside of punk, etc.). I've broken it up into two parts, the second of which should be forthcoming soon!
+I’ve been slacking on updating the blog, mostly because I’ve been trying to focus on my diss and a few other projects I’ve been working on. I at least had time to write this piece, a sketch for the theoretical section that will eventually appear in my diss introduction. That will be in some heavily modified form, anyway. I’ll have to tweak it to make it a workable intro, since here I don’t talk about punk or anything else musical, really. I’d also like to expand it into a more general methodological essay down the road (which will require reorganizing and expanding, adding examples from outside of punk, etc.).
 
 My dissertation is about 1970s New York punk (the Ramones, Patti Smith Group, Blondie, etc.). It takes its cue from what I see as the *aporetic* status of punk in the popular and scholarly world: On the one hand, punk is seemingly self-evident as a genre, three-chord rock that sonifies urban grit and grime. On the other hand, it is a genre that is curiously diffuse from a stylistic and philosophical standpoint, and has inspired a great deal of conflicting accounts of what it is all about. It’s hard for any given narrative about punk – as anarchic noise, as retro rock, as deconstructive postmodern avant-garde, etc. – to gather up the Sex Pistols, Blondie, Patti Smith, and Suicide (let alone explain how those earlier artists link up to later groups like Bad Brains, Green Day, and Pussy Riot).
 
@@ -49,6 +49,61 @@ Feuer also orients genre theory toward suspicion, one that matches a broader sus
 Even so, good postructrualist that he is, Derrida privileges a vision of art that evades genre’s normative force. Throughout the essay, he contrasts the juridical commitments of genre with moments at its “liminal edge” (210). These are ones that illustrate that genre necessarily fails. As he insists, “participation [in genre] never amounts to belonging.” Instead, he argues that a text “belongs without belonging, and the ‘without’ (or the suffix ‘-less’) which relates belonging to non-belonging appears only in the timeless time of the blink of an eye” (212). In writing this, Derrida is also being a good romantic. It is no accident that his original text uses the German phrase *Augenblick*, a term that abounds in literary romanticism. Derrida aligns with the literature of privileged moments and singularities. He extolls Blanchot’s *La Folie du jour*, a text he affectionately describes as “not even quite a book” (213). Thus, despite his deconstructive contrast between law and freedom, Derrida sides with the latter. Freedom here too means idealism, choosing to liberate our minds from the law of genre.<sup>19</sup>
 <br>
 <br>
+
+**Genre as Practice**
+<br>
+Of course, the point isn’t that we can bypass the way ideas influence how people make or perceive genres. Any theory of genre must confront the way norms contribute to our experience of music. Here is where a second excursus on historical materialism becomes necessary. What sets this mode of thought apart from what is sometimes called “vulgar” or “naïve” Marxism is its refusal to stop with the critique of idealism. A tempting conclusion from Marx’s argument is that we ought to abandon concepts, either disregarding ideas altogether or turning toward various strains of thought that imagine they can bypass the problem of thought (this is more often an accusation leveled at Marx than one I have encountered in Marxist thought itself).
+
+Historical materialism, as I understand it, rejects the assumption that the world can be reduced to a mechanistic result of labor. From Marx and beyond, the historical materialist tradition puts a premium on thought. This is true in many practical forms (think of figures like Franz Fanon and Rosa Luxemburg, who were both political activists and prolific writers). But it also powered the rise of forms of thought like critical theory, most famously associated with the Frankfurt School. I take it that an impulse to taking seriously the troubled relationship of theory and practice guides Adorno in his famous opening to *Negative Dialectics*:
+<blockquote>Philosophy, which once seemed obsolete, lives on because the moment to realize it was missed. The summary judgment that it had merely interpreted the world, that resignation in the face of reality had crippled it in itself, becomes a defeatism of reason after the attempt to change the world miscarried.<sup>20</sup></blockquote>
+
+And, it guides Bloch in his challenge toward the vulgar anti-religious sentiment that often abounds among Marx’s disciples; as Bloch writes: “Only someone who speaks not just for the earth but also for the wrongly surrendered heaven will truly be able to demystify the fabrications of bourgeois-feudal state ideology.”<sup>21</sup>
+
+Historical materialism demands that we attend to both heaven and earth, thought and matter. This does require reconceiving of how the two domains are linked, and how they stand at odds. This view of conceptual norms as a kind of practical activity is nicely developed by the Hegelian pragmatist philosopher Robert Brandom (who would take issue with being read in line with historical materialism, but so it goes). He argues that thinking about norms is a *social* gesture, not a typological one. Brandom writes that judgments are “things knowers and agents are in a distinctive way *responsible* for. Judging and acting involve *commitments*. They are *endorsements*, exercises of *authority*.”<sup>22</sup> Ultimately, descriptions are claims about what we value and who we want to be.
+
+If concepts are practical, then this means that we are never imprisoned within this choice between taxonomy and chaos. Rather, norms guide us as we act. In the context of genre, they are claims about how to *use* musical material. One person’s “x sounds like this” really means, “you ought to hear x this way.” In saying this, I want to emphasize what Frow calls the “rhetorical function” of genres. As he writes, texts are structured so as to “achieve certain pragmatic effects: to catch the attention of a distracted reader with sufficient force to persuade them to buy a copy of the newspaper; to reinforce a set of populist moral judgments.”<sup>23</sup> Frow’s two examples are somewhat narrow, but one can extrapolate. Frow suggests that genres are not just limited to formal devices or thematic devices, but also include a persuasive element. Genres carry with them an *ought*.
+
+To bowdlerize a somewhat famous claim by Slavoj Žižek, then, genre “doesn’t give you what you desire, it tells you how to desire.”<sup>24</sup> Take the slasher movie. Of course, such films are bound up with any number of tropes and images: terrifying masked killers in cat-and-mouse chases, summer camp sex parties, soundtracks featuring Alice Cooper songs, etc.. But such tropes also make demands of us. They attempt to frighten us and thrill us, all within a complex moral economy of transgression and punishment. Think of the *Friday the 13<sup>th</sup>* series, as Jason Vorhees stalks negligent counselors. Or, *A Nightmare on Elm Street*, where Freddy Krueger hunts children to enact revenge on their parents (this is also what is so perfectly parodied by *The Cabin in the Woods*, where the deaths of teenagers at the hands of monsters turn out to be literally sacrificial). These films also invite you to side with the heroes, the final girls and scared children and marine corps soldiers, calling for their victory over the villains.
+
+Of course, one can reject such a demand. You might find horror movies unpleasant, funny, offensive, even simply just turn them off. Interpreting genres is almost always troubled process, because accounts of how a genre works are seldom innocent or immune to partisanship. This has often been treated as a problem for genre theory (after all, to speak of genre is to risk entering the realm of Derrida’s cold, empty law).
+
+But I would suggest that dissensus is a necessary and central aspect of thinking about genre. This starts to point toward that infamous historical materialist term hovering behind the discussion thus far: *dialectics*. It is a difficult one to define, partially because many of its greatest champions like Hegel and Marx refused to give neat definitions for it and their disciples can’t seem to agree about what it means (Hegel cryptically refers to it as the “course that generates itself,” Marx said this meant that it was “standing on its head,” and Adorno admitted “there is no definition that fits it”).<sup>25</sup> Reconstructing the history and meaning of the term would be a project unto itself, so I will bypass any general discussion here.
+
+Sketchily put, I understand dialectics to be a way of thinking that recognizes the place of contradiction and disagreement in thought and practice. Dialectics rejects the commonplace assumption in many strains of philosophy and social theory, that we can neatly distill concepts to their most unproblematic form. To give one simple example: in *Capital*, Marx famously schematizes capitalist societies into different classes. His point in doing so is not to give us a nice clean dichotomy, but to challenge pervasive assumptions that society works like a homogenous unit. Instead, he suggests that different people in a capitalist society have different concerns, ones that often stand in strict distinction to each other (One of his favorite examples should be straightforward to anyone who works for a living: employers want their employees to work as long as possible for as little money as possible, while employees want to make more money for less exploitative work<sup>26</sup>).
+
+This starts to chip away at a central aspect of dialectics. It is not only a theory of distinct positions that are irreconcilable (or get added together, the “thesis-antithesis-synthesis” reduction that is often hastily linked to the concept). Dialectics also inquires after the place of negativity within concepts. Things are seldom what they simply *are*, but often are defined by what they are not. This is nicely expressed in Žižek’s often-quoted summary of dialectics, the so-called “coffee without cream” joke:
+
+<blockquote>In Lubitsch’s *Ninotchka*: the hero visits a cafeteria and orders coffee without cream; the waiter replies: "Sorry, but we've run out of cream. Can I bring you coffee without milk?" In both cases, the customer gets straight coffee, but this One-coffee is each time accompanied by a different negation, first coffee-with-no-cream, then coffee-with-no-milk.<sup>27</sup></blockquote>
+
+Despite his quirky formulation (I don't really know what a "One-coffee" is), Žižek is expressing something relatively straightforward: things are not only meaningful for their positive content. This is all-but self-evident to many paying attention to contemporary politics. To give one such example: Angela Davis has written at length about the ways social order is based in negativity. In “Rape, Racism, and the Capitalist Setting,” Davis observes that the United States comfortably tolerates many practices that stand at odds with its oft-professed values of freedom and security (as her title suggests, the central examples in her essay are the horrifically pervasive acts of rape and anti-black bigotry/violence in the US). Davis claims that the mistake would be to think of practices which have persisted so long and so centrally in the US as exceptions or aberrations. Rather, such practices are inextricable parts of that social formation.<sup>28</sup> Rape is part of US life, right alongside freedom and democracy. Or, as former SNCC chairman Jamil Abdullah Al-Amin put it, “violence is a part of America’s culture. It is as American as cherry pie.”<sup>29</sup>
+
+Despite my shift to such severe topics, I don’t mean to suggest that dialectics is only concerned with violence, disagreement, or renunciation. It also centrally inquires into the grounds for identity provided by disagreement. This is what sets Hegel alongside Marx as a contributor to historical materialism, whatever their professed differences. Hegel’s philosophy is neither magical nor an abstract meditation on ideas. It is an investigation of what it means to be a social being embedded in a community (this is largely Hegel’s term *Geist* inquires after, not gods or ghosts).
+
+In this sense, I would argue even more emphatically than Frow that genres are indistinguishable from their pragmatic function. Genres teach us what the world is, and make pleas about what it ought to be. In this sense, Derrida is right about one thing. As he writes, a genre description is a “promise, an oath.” But it is not uttered as “a vow of obedience, as a docile response to the injunction emanating from the law of genre.”<sup>30</sup> Musical actions are not empty oaths carved into Wotan’s spear. Rather, they are promises, rendered in sensuous form, about what right life might be. This makes the cultivation of norms akin not only to regimes of power, but potentially a version of what Will Cheng calls care.<sup>31</sup> Or, as Jason Toynbee writes, “genres “express the collective interest or point of view of a community.”<sup>32</sup>
+
+If this is true, it does mean that the stakes of genre commitments can be high. Transgressions of norms can varyingly function as the betterment of the world or the denial of what was promised. Concepts have the ability to impart what the philosopher JM Bernstein calls “moral injury,” moments that “discount or injure the value I am (my sense of inner worth or dignity) and the knowledge that others are like me and share the understanding of our shared predicament of vulnerability.”<sup>33</sup>
+
+This is why genre can be bound up so intensely with regimes of power. Unjust definition of genre norms by individuals, institutions, or markets are denials of the right to recognition. Conversely, it is also why art potentially poses a challenge to power. To say that art ought to go a certain way is also to claim that things ought to be otherwise. In *Aesthetic Theory*, Adorno (the reputed fatalist) argues that even in its mere sounding, music potentially calls for something better. He writes ardently about the force of genre:
+
+<blockquote>Even for an artist like Mozart, who seems so unpolemical and who according to general agreement moves solely within the pure sphere of spirit,… the polemical element is central in the power by which the music sets itself at a distance that mutely condemns the impoverishment and falsity of that from which it distinguishes itself. In Mozart form acquires the power of that distancing as determinate negation; the reconciliation that it realizes is painfully sweet because reality to date has refused it… What crackles in artworks is the sound of the friction of the antagonistic elements that the artwork seeks to unify.<sup>34</sup></blockquote>
+
+Adorno is here arguing that the demand for justice saturates even the music that comfortably travels within genre norms. Regardless of the estimation of Mozart (I know, how dare he call Mozart unpolemical!), Adorno is making a claim about normativity and music. In participating in genre, Adorno claims, we make a demand for a better world.
+<br>
+<br>
+
+**Genre as History**
+<br>
+We also make a claim to live up to past demands, forgotten promises and broken oaths. One of the central thoughts that guides historical materialism is the historical. This should be straightforward enough, not just because the word history appears in the term historical materialism, but to anyone who has read Marx’s lengthy historical accounts or Benjamin’s famous last essay, “On the Concept of History.”<sup>35</sup>
+
+Simply put: music is historical. It almost always implicitly takes a stance on its past. Genres tell us what of that which came before is relevant, and what should be forgotten. This is often easy to see in those genres that depend on relationships to lengthy traditions (think of many genres in classical music or in folk music traditions, which depend on understandings of musical practices that have hundreds of years of history). Others depend on the subversion of or erasure of tradition, defining their practices through what they are no longer. Of course, many moments of such continuity or erasure are imagined. There might be no real living tradition informing some musical practice, or some artist might not actually succeed in their ruthless critique of everything existing (I know my high school band thought we did, but we didn’t). Even so, lies about history still put the past at the center of the present.
+
+Indeed, the argument of historical materialism is not just that we should *attend to* history, but that human thought and activity is itself historical (this, I would argue is what sets historical materialism apart from more commonplace academic methods rooted in genealogy or historicism). Historical materialism follows from the fundamental Hegelian insight that history inflects our very self-understanding; as JM Bernstein remarks, Hegel reveals that “we are right here and now a community of the living and the dead. That the dead are always with us, and that we have to find adequate means of acknowledging in our collective and communal practices of acknowledging our relationship to the dead.”<sup>36</sup> In this spirit, we should keep in mind that genre should not really be thought of as a set of *a priori* codes that precede musical activity (a potential risk of misreading the Brackett quotation above). Rather, genre is expressed through each attempt to make good, in music, on our sense of the promises and failures of the past.
+
+Of course, this potentially inflects history with a tragic character. Indeed, historical materialism might be understood to tend toward history at the expense of the present. As Hegel famously wrote, “the owl of Minerva takes flight only at dusk.”<sup>37</sup> Hegel was not actually suggesting that we should only task ourselves with reflecting on the past or elevate historians and philosophers to the level of god (it comes from a passage in the *Philosophy of Right* where Hegel warns, quite to the contrary, that philosophical reflection often comes too late to solve all of our problems). Even so, Gillian Rose warns that history is often conducted in a melancholic register. As she argues, reflecting on history can be a form of “aberated mourning.” To remember is to dwell in a “baroque melancholia immersed in the world of soulless and unredeemed bodies.”<sup>38</sup>
+
+Despite this, remembering should not always be construed as a lament. Turning toward history means making a demand to live up to the promises of the past. As Benjamin writes in “On the Concept of History,” “the past carries with it a secret index by which it is referred to redemption.”<sup>39</sup> In that spirit, genres often engage in what Amy Lynn Wlodarski calls “testimonial aesthetics.” Wlodarski was writing about literal testimony (in the context of Steve Reich’s *Different Trains*, a piece that powerfully engages with the experiences of Holocaust survivors).<sup>40</sup> But genres themselves testify in musical form. Melancholy also gives rise to the hope of reconciliation, a form of remembrance entangled with a plea for the future.
+<br>
+<br>
 <br>
 **Endnotes**
 <br>
@@ -90,3 +145,46 @@ Even so, good postructrualist that he is, Derrida privileges a vision of art tha
 18. Derrida, *Of Grammatology*, trans. Gayatri Chakravorty Spivak, Corrected Edition (Baltimore: Johns Hopkins University Press, 1998), 158.
 
 19. For a similar line of commentary, see Frow, *Genre*, 25–28. Frow himself is not exempt from this criticism. While he defends the force of genre, he privileges a theory that is no less idealist in its tendency to elevate the linguistic turn over the typological impulses of “Aristotelian categories.” See 51-71 for his account of this shift.
+
+20. Theodor W. Adorno, *Negative Dialectics*, trans. E.B. Ashton (New York: Continuum, 2007), 3.
+
+21. Bloch, *The Spirit of Utopia*, 245.
+ 
+22. Robert B. Brandom, *Reason in Philosophy: Animating Ideas* (Cambridge, MA: Belknap Press, 2009), 32.
+
+23. Frow, *Genre*, 9.
+
+24. His topic is actually cinema, not genre *per se*; this quotation comes from the documentary by Sophie Fiennes, *The Pervert’s Guide to Cinema*. Also, I’m just going to have to bypass the question of desire itself, which obviously relates to Žižek’s interest in the psychoanalytic tradition and so links up to big questions about music and psychoanalysis (ones too big to broach here, sadly).
+
+
+25. G. W. F. Hegel, *Phenomenology of Spirit*, trans. A. V. Miller (Oxford: Oxford University Press, 1977), 40; See also the equally cryptic account of it in the introduction to The Science of Logic, trans. George Di Giovanni (New York: Cambridge University Press, 2010), 23–43; Karl Marx, *Capital: A Critique of Political Economy*, trans. Ben Fowkes, vol. 1 (New York: Penguin Books, 1976), 103; Adorno, *Hegel: Three Studies, trans. Shierry Weber Nicholsen* (Cambridge, MA: The MIT Press, 1994), 9.
+
+26. See Chapter 10, “The Working Day,” in Marx, Capital, 1:340–416.
+ 
+27. Slavoj Žižek, *Less Than Nothing: Hegel And The Shadow Of Dialectical Materialism* (Brooklyn, NY: Verso, 2012), 765–766.
+
+28. Angela Y. Davis, “Rape, Racism, and the Capitalist Setting,” *The Black Scholar* 09:07 (1981): 24–30.
+
+29. Jamil Abdullah Al-Amin, “Press Conference,” July 27, 1967.
+
+30. Derrida, “The Law of Genre,” 204.
+ 
+31. Cheng and McClary, *Just Vibrations*.
+ 
+32. Toynbee, *Making Popular Music*, 110.
+
+33. JM Bernstein, *Torture and Dignity: An Essay on Moral Injury* (Chicago: University Of Chicago Press, 2015), 3.
+
+34. Adorno, *Aesthetic Theory*, trans. Robert Hullot-Kentor (Univ Of Minnesota Press, 1998), 177.
+
+35. Eg. the history of capitalist accumulation (chapters 26-33) that concludes Marx, *Capital*, 1:873–940.
+
+36. JM Bernstein, “Introduction,” Hegel’s Phenomenology of Spirit, Lecture, September 6, 2006.
+
+37. The more accurate (and now standard) translation of the quotation is “the owl of Minerva begins its flight only with the onset of dusk.” I have modified it simply to stay closer to its more common usage, which sounds less awkward and actually captures the meaning of the phrase better. GWF Hegel, *Elements of the Philosophy of Right*, ed. Allen W. Wood, trans. H. B. Nisbet, Revised Edition (Cambridge University Press, 1991), 23.
+
+38. Rose, *Mourning Becomes the Law*, 69.
+
+39. Walter Benjamin, “On the Concept of History,” in *Selected Writings*, trans. Harry Zohn, vol. 04, 1938–40 (Belknap Press, 2004), 390.
+ 
+40. Amy Lynn Wlodarski, “The Testimonial Aesthetics of Different Trains,” *Journal of the American Musicological Society* 63:01 (April 1, 2010): 99–141.
