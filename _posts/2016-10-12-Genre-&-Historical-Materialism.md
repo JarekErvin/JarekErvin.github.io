@@ -106,8 +106,7 @@ Despite this, remembering should not always be construed as a lament. Turning to
 <br>
 **Endnotes**
 <br>
-
-<span style=" font-size: 1em">
+<br>
 
 1. Raya Dunayevskaya, *The Power of Negativity: Selected Writings on the Dialectic in Hegel and Marx*, ed. Peter Hudis and Kevin B. Anderson (New York: Lexington Books, 2002), 227.
 
@@ -189,4 +188,3 @@ Despite this, remembering should not always be construed as a lament. Turning to
 39. Walter Benjamin, “On the Concept of History,” in *Selected Writings*, trans. Harry Zohn, vol. 04, 1938–40 (Belknap Press, 2004), 390.
  
 40. Amy Lynn Wlodarski, “The Testimonial Aesthetics of Different Trains,” *Journal of the American Musicological Society* 63:01 (April 1, 2010): 99–141.
-</span>
