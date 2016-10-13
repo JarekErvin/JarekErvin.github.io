@@ -91,7 +91,7 @@ Adorno is here arguing that the demand for justice saturates even the music that
 <br>
 <br>
 
-Genre as History
+**Genre as History**
 <br>
 We also make a claim to live up to past demands, forgotten promises and broken oaths. One of the central thoughts that guides historical materialism is the historical. This should be straightforward enough, not just because the word history appears in the term historical materialism, but to anyone who has read Marx’s lengthy historical accounts or Benjamin’s famous last essay, “On the Concept of History.”<sup>35</sup>
 
@@ -104,10 +104,9 @@ Of course, this potentially inflects history with a tragic character. Indeed, hi
 Despite this, remembering should not always be construed as a lament. Turning toward history means making a demand to live up to the promises of the past. As Benjamin writes in “On the Concept of History,” “the past carries with it a secret index by which it is referred to redemption.”<sup>39</sup> In that spirit, genres often engage in what Amy Lynn Wlodarski calls “testimonial aesthetics.” Wlodarski was writing about literal testimony (in the context of Steve Reich’s *Different Trains*, a piece that powerfully engages with the experiences of Holocaust survivors).<sup>40</sup> But genres themselves testify in musical form. Melancholy also gives rise to the hope of reconciliation, a form of remembrance entangled with a plea for the future.
 <br>
 <br>
+<br>
 **Endnotes**
 <br>
-<br>
-
 1. Raya Dunayevskaya, *The Power of Negativity: Selected Writings on the Dialectic in Hegel and Marx*, ed. Peter Hudis and Kevin B. Anderson (New York: Lexington Books, 2002), 227.
 
 2. Disagreement abounds as to what this tradition could be called. Cf. Andrew Feenberg, *The Philosophy of Praxis: Marx, Lukács, And The Frankfurt School* (Brooklyn, NY: Verso, 2014) and Perry Anderson, Considerations on Western Marxism (London: Verso, 1979). Further disagreement abounds as to whether it constitutes a tradition at all. Commentators have varyingly questioned or reaffirmed Marx’s fidelity to Hegel (eg. Louis Althusser, *For Marx*, trans. Ben Brewster [New York: Verso, 2006]; ); Adorno’s to Hegel and Marx (eg. Gillian Rose, *The Melancholy Science* [Brooklyn, NY: Verso, 2014]; ); etc.. While a full dissertation would be needed just to review this literature, suffice to say: I like “historical materialism” because it is the most neutral term available. It avoids the disparaging implications of terms like “Western Marxism,” which often is used to suggest that political movements or social programs originating outside of the Eastern Bloc are outside of legitimate political struggle. And I think of it as a tradition expressing a set of centrally linked concerns in the spirit of JM Bernstein, “Negative Dialectic as Fate: Adorno and Hegel,” in *The Cambridge Companion to Adorno*, ed. Tom Huhn (Cambridge University Press, 2004), 19–50.
