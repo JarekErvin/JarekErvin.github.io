@@ -122,33 +122,33 @@ Despite this, remembering should not always be construed as a lament. Turning to
 
 7. Brackett, *Categorizing Sound*, 13.
 
- 8. Karl Marx and Frederick Engels, *Collected Works*, vol. 5 (New York: International Publishers Co., 1976), 30. I have modified the translation slightly to remove unnecessary gendering of language and awkwardness of phrasing.
+8. Karl Marx and Frederick Engels, *Collected Works*, vol. 5 (New York: International Publishers Co., 1976), 30. I have modified the translation slightly to remove unnecessary gendering of language and awkwardness of phrasing.
 
- 9. Ernst Bloch, *The Spirit of Utopia*, trans. Anthony A. Nassar (Stanford: Stanford University Press, 2000), 185.
+9. Ernst Bloch, *The Spirit of Utopia*, trans. Anthony A. Nassar (Stanford: Stanford University Press, 2000), 185.
 
- 10. Marx and Engels, *Collected Works*, 5:31.
+10. Marx and Engels, *Collected Works*, 5:31.
 
- 11. Ibid., 5:8.
+11. Ibid., 5:8.
 
 12. Feuer, “Genre Study and Television,” in *Channels of Discourse, Reassembled*, ed. Robert C. Allen (Chapel Hill: UNC Press, 1992), 144.
 
- 13. Eg. Northrop Frye, *Anatomy of Criticism: Four Essays* (Princeton: Princeton University Press, 2000); for an early critique of Frye, see Tzvetan Todorov, *The Fantastic: A Structural Approach to a Literary Genre*, trans. Richard Howard (Ithaca: Cornell University Press, 1975); for examples of the way music theorists have recently engaged with Frye (albeit in a more pragmatic manner, rejecting much of the transcendentalism that structures Frye’s own thought), see Byron Almén, “Narrative Archetypes: A Critique, Theory, and Method of Narrative Analysis,” *Journal of Music Theory* 47:01 (Spring 2003): 1–39; Michael L. Klein, “Ironic Narrative, Ironic Reading,” *Journal of Music Theory* 53:01 (Spring 2009): 95–136.
+13. Eg. Northrop Frye, *Anatomy of Criticism: Four Essays* (Princeton: Princeton University Press, 2000); for an early critique of Frye, see Tzvetan Todorov, *The Fantastic: A Structural Approach to a Literary Genre*, trans. Richard Howard (Ithaca: Cornell University Press, 1975); for examples of the way music theorists have recently engaged with Frye (albeit in a more pragmatic manner, rejecting much of the transcendentalism that structures Frye’s own thought), see Byron Almén, “Narrative Archetypes: A Critique, Theory, and Method of Narrative Analysis,” *Journal of Music Theory* 47:01 (Spring 2003): 1–39; Michael L. Klein, “Ironic Narrative, Ironic Reading,” *Journal of Music Theory* 53:01 (Spring 2009): 95–136.
 
 14. Ludwig Feuerbach, *The Essence of Christianity*, trans. George Eliot (Mineola, NY: Dover, 2012).
 
- 15. On suspicion in the academy, see Rita Felski, *The Limits of Critique* (Chicago: University Of Chicago Press, 2015); William Cheng and Susan McClary, *Just Vibrations: The Purpose of Sounding Good* (Ann Arbor: University of Michigan Press, 2016).
+15. On suspicion in the academy, see Rita Felski, *The Limits of Critique* (Chicago: University Of Chicago Press, 2015); William Cheng and Susan McClary, *Just Vibrations: The Purpose of Sounding Good* (Ann Arbor: University of Michigan Press, 2016).
 
 16. Feuer, “Genre Study and Television,” 139; Garin Dowd, “"Introduction: Genre Matters in Theory and Criticism,” in *Genre Matters: Essays in Theory and Criticism*, ed. Garin Dowd, Lesley Stevenson, and Jeremy Strong (Portland, OR: Intellect, 2006), 11.
 
- 17. Jacque Derrida, “The Law of Genre,” in *Appendix: Bulletin of the International Colloquium on Genre*, 1978, 202–203.
+17. Jacque Derrida, “The Law of Genre,” in *Appendix: Bulletin of the International Colloquium on Genre*, 1978, 202–203.
 
- 18. Derrida, *Of Grammatology*, trans. Gayatri Chakravorty Spivak, Corrected Edition (Baltimore: Johns Hopkins University Press, 1998), 158.
+18. Derrida, *Of Grammatology*, trans. Gayatri Chakravorty Spivak, Corrected Edition (Baltimore: Johns Hopkins University Press, 1998), 158.
 
 19. For a similar line of commentary, see Frow, *Genre*, 25–28. Frow himself is not exempt from this criticism. While he defends the force of genre, he privileges a theory that is no less idealist in its tendency to elevate the linguistic turn over the typological impulses of “Aristotelian categories.” See 51-71 for his account of this shift.
 
- 20. Theodor W. Adorno, *Negative Dialectics*, trans. E.B. Ashton (New York: Continuum, 2007), 3.
+20. Theodor W. Adorno, *Negative Dialectics*, trans. E.B. Ashton (New York: Continuum, 2007), 3.
 
- 21. Bloch, *The Spirit of Utopia*, 245.
+21. Bloch, *The Spirit of Utopia*, 245.
  
 22. Robert B. Brandom, *Reason in Philosophy: Animating Ideas* (Cambridge, MA: Belknap Press, 2009), 32.
 
@@ -157,29 +157,29 @@ Despite this, remembering should not always be construed as a lament. Turning to
 24. His topic is actually cinema, not genre *per se*; this quotation comes from the documentary by Sophie Fiennes, *The Pervert’s Guide to Cinema*. Also, I’m just going to have to bypass the question of desire itself, which obviously relates to Žižek’s interest in the psychoanalytic tradition and so links up to big questions about music and psychoanalysis (ones too big to broach here, sadly).
 
 
- 25. G. W. F. Hegel, *Phenomenology of Spirit*, trans. A. V. Miller (Oxford: Oxford University Press, 1977), 40; See also the equally cryptic account of it in the introduction to The Science of Logic, trans. George Di Giovanni (New York: Cambridge University Press, 2010), 23–43; Karl Marx, *Capital: A Critique of Political Economy*, trans. Ben Fowkes, vol. 1 (New York: Penguin Books, 1976), 103; Adorno, *Hegel: Three Studies, trans. Shierry Weber Nicholsen* (Cambridge, MA: The MIT Press, 1994), 9.
+25. G. W. F. Hegel, *Phenomenology of Spirit*, trans. A. V. Miller (Oxford: Oxford University Press, 1977), 40; See also the equally cryptic account of it in the introduction to The Science of Logic, trans. George Di Giovanni (New York: Cambridge University Press, 2010), 23–43; Karl Marx, *Capital: A Critique of Political Economy*, trans. Ben Fowkes, vol. 1 (New York: Penguin Books, 1976), 103; Adorno, *Hegel: Three Studies, trans. Shierry Weber Nicholsen* (Cambridge, MA: The MIT Press, 1994), 9.
 
- 26. See Chapter 10, “The Working Day,” in Marx, Capital, 1:340–416.
+26. See Chapter 10, “The Working Day,” in Marx, Capital, 1:340–416.
  
 27. Slavoj Žižek, *Less Than Nothing: Hegel And The Shadow Of Dialectical Materialism* (Brooklyn, NY: Verso, 2012), 765–766.
 
- 28. Angela Y. Davis, “Rape, Racism, and the Capitalist Setting,” *The Black Scholar* 09:07 (1981): 24–30.
+28. Angela Y. Davis, “Rape, Racism, and the Capitalist Setting,” *The Black Scholar* 09:07 (1981): 24–30.
 
- 29. Jamil Abdullah Al-Amin, “Press Conference,” July 27, 1967.
+29. Jamil Abdullah Al-Amin, “Press Conference,” July 27, 1967.
 
- 30. Derrida, “The Law of Genre,” 204.
+30. Derrida, “The Law of Genre,” 204.
  
 31. Cheng and McClary, *Just Vibrations*.
  
 32. Toynbee, *Making Popular Music*, 110.
 
- 33. JM Bernstein, *Torture and Dignity: An Essay on Moral Injury* (Chicago: University Of Chicago Press, 2015), 3.
+33. JM Bernstein, *Torture and Dignity: An Essay on Moral Injury* (Chicago: University Of Chicago Press, 2015), 3.
 
- 34. Adorno, *Aesthetic Theory*, trans. Robert Hullot-Kentor (Univ Of Minnesota Press, 1998), 177.
+34. Adorno, *Aesthetic Theory*, trans. Robert Hullot-Kentor (Univ Of Minnesota Press, 1998), 177.
 
- 35. Eg. the history of capitalist accumulation (chapters 26-33) that concludes Marx, *Capital*, 1:873–940.
+35. Eg. the history of capitalist accumulation (chapters 26-33) that concludes Marx, *Capital*, 1:873–940.
 
- 36. JM Bernstein, “Introduction,” Hegel’s Phenomenology of Spirit, Lecture, September 6, 2006.
+36. JM Bernstein, “Introduction,” Hegel’s Phenomenology of Spirit, Lecture, September 6, 2006.
 
 37. The more accurate (and now standard) translation of the quotation is “the owl of Minerva begins its flight only with the onset of dusk.” I have modified it simply to stay closer to its more common usage, which sounds less awkward and actually captures the meaning of the phrase better. GWF Hegel, *Elements of the Philosophy of Right*, ed. Allen W. Wood, trans. H. B. Nisbet, Revised Edition (Cambridge University Press, 1991), 23.
 
