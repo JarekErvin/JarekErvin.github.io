@@ -113,7 +113,7 @@ Despite this, remembering should not always be construed as a lament. Turning to
 
 1. Raya Dunayevskaya, *The Power of Negativity: Selected Writings on the Dialectic in Hegel and Marx*, ed. Peter Hudis and Kevin B. Anderson (New York: Lexington Books, 2002), 227.
 
-2. Disagreement abounds as to what this tradition could be called. Cf. Andrew Feenberg, *The Philosophy of Praxis: Marx, Lukács, And The Frankfurt School* (Brooklyn, NY: Verso, 2014) and Perry Anderson, Considerations on Western Marxism (London: Verso, 1979). Further disagreement abounds as to whether it constitutes a tradition at all. Commentators have varyingly questioned or reaffirmed Marx’s fidelity to Hegel (eg. Louis Althusser, *For Marx*, trans. Ben Brewster [New York: Verso, 2006]; ); Adorno’s to Hegel and Marx (eg. Gillian Rose, *The Melancholy Science* [Brooklyn, NY: Verso, 2014]; ); etc.. While a full dissertation would be needed just to review this literature, suffice to say: I like “historical materialism” because it is the most neutral term available. It avoids the disparaging implications of terms like “Western Marxism,” which often is used to suggest that political movements or social programs originating outside of the Eastern Bloc are outside of legitimate political struggle. And I think of it as a tradition expressing a set of centrally linked concerns in the spirit of JM Bernstein, “Negative Dialectic as Fate: Adorno and Hegel,” in *The Cambridge Companion to Adorno*, ed. Tom Huhn (Cambridge University Press, 2004), 19–50.
+2. Disagreement abounds as to what this tradition could be called. Cf. Andrew Feenberg, *The Philosophy of Praxis: Marx, Lukács, And The Frankfurt School* (Brooklyn, NY: Verso, 2014) and Perry Anderson, *Considerations on Western Marxism* (London: Verso, 1979). Further disagreement abounds as to whether it constitutes a tradition at all. Commentators have varyingly questioned or reaffirmed Marx’s fidelity to Hegel (eg. Louis Althusser, *For Marx*, trans. Ben Brewster [New York: Verso, 2006]); Adorno’s to Hegel and Marx (eg. Gillian Rose, *The Melancholy Science* [Brooklyn, NY: Verso, 2014]); and beyond. While a full dissertation would be needed just to review this literature, suffice to say: I like “historical materialism” because it is the most neutral term available. It avoids the disparaging implications of terms like “Western Marxism,” which often is used to suggest that political movements or social programs originating outside of the Eastern Bloc are outside of legitimate political struggle. And I think of it as a tradition expressing a set of centrally linked concerns in the spirit of JM Bernstein, “Negative Dialectic as Fate: Adorno and Hegel,” in *The Cambridge Companion to Adorno*, ed. Tom Huhn (Cambridge University Press, 2004), 19–50.
 
 3. Gillian Rose, *Mourning Becomes the Law: Philosophy and Representation* (New York: Cambridge University Press, 1996), 8.
 
@@ -125,7 +125,7 @@ Despite this, remembering should not always be construed as a lament. Turning to
 
 7. Brackett, *Categorizing Sound*, 13.
 
-8. Karl Marx and Frederick Engels, *Collected Works*, vol. 5 (New York: International Publishers Co., 1976), 30. I have modified the translation slightly to remove unnecessary gendering of language and awkwardness of phrasing.
+8. Karl Marx and Frederick Engels, *Collected Works*, Vol. 5 (New York: International Publishers Co., 1976), 30. I have modified the translation slightly to remove unnecessary gendering of language and awkwardness of phrasing.
 
 9. Ernst Bloch, *The Spirit of Utopia*, trans. Anthony A. Nassar (Stanford: Stanford University Press, 2000), 185.
 
@@ -135,11 +135,11 @@ Despite this, remembering should not always be construed as a lament. Turning to
 
 12. Feuer, “Genre Study and Television,” in *Channels of Discourse, Reassembled*, ed. Robert C. Allen (Chapel Hill: UNC Press, 1992), 144.
 
-13. Eg. Northrop Frye, *Anatomy of Criticism: Four Essays* (Princeton: Princeton University Press, 2000); for an early critique of Frye, see Tzvetan Todorov, *The Fantastic: A Structural Approach to a Literary Genre*, trans. Richard Howard (Ithaca: Cornell University Press, 1975); for examples of the way music theorists have recently engaged with Frye (albeit in a more pragmatic manner, rejecting much of the transcendentalism that structures Frye’s own thought), see Byron Almén, “Narrative Archetypes: A Critique, Theory, and Method of Narrative Analysis,” *Journal of Music Theory* 47:01 (Spring 2003): 1–39; Michael L. Klein, “Ironic Narrative, Ironic Reading,” *Journal of Music Theory* 53:01 (Spring 2009): 95–136.
+13. Eg. Northrop Frye, *Anatomy of Criticism: Four Essays* (Princeton: Princeton University Press, 2000). For an early critique of Frye, see Tzvetan Todorov, *The Fantastic: A Structural Approach to a Literary Genre*, trans. Richard Howard (Ithaca: Cornell University Press, 1975). For examples of the way music theorists have recently engaged with Frye (albeit in a more pragmatic manner, rejecting much of the transcendentalism that structures Frye’s own thought), see Byron Almén, “Narrative Archetypes: A Critique, Theory, and Method of Narrative Analysis,” *Journal of Music Theory* 47:01 (Spring 2003): 1–39; and Michael L. Klein, “Ironic Narrative, Ironic Reading,” *Journal of Music Theory* 53:01 (Spring 2009): 95–136.
 
 14. Ludwig Feuerbach, *The Essence of Christianity*, trans. George Eliot (Mineola, NY: Dover, 2012).
 
-15. On suspicion in the academy, see Rita Felski, *The Limits of Critique* (Chicago: University Of Chicago Press, 2015); William Cheng and Susan McClary, *Just Vibrations: The Purpose of Sounding Good* (Ann Arbor: University of Michigan Press, 2016).
+15. On suspicion in the academy, see Rita Felski, *The Limits of Critique* (Chicago: University Of Chicago Press, 2015). See also William Cheng and Susan McClary, *Just Vibrations: The Purpose of Sounding Good* (Ann Arbor: University of Michigan Press, 2016).
 
 16. Feuer, “Genre Study and Television,” 139; Garin Dowd, “"Introduction: Genre Matters in Theory and Criticism,” in *Genre Matters: Essays in Theory and Criticism*, ed. Garin Dowd, Lesley Stevenson, and Jeremy Strong (Portland, OR: Intellect, 2006), 11.
 
@@ -147,7 +147,7 @@ Despite this, remembering should not always be construed as a lament. Turning to
 
 18. Derrida, *Of Grammatology*, trans. Gayatri Chakravorty Spivak, Corrected Edition (Baltimore: Johns Hopkins University Press, 1998), 158.
 
-19. For a similar line of commentary, see Frow, *Genre*, 25–28. Frow himself is not exempt from this criticism. While he defends the force of genre, he privileges a theory that is no less idealist in its tendency to elevate the linguistic turn over the typological impulses of “Aristotelian categories.” See 51-71 for his account of this shift.
+19. For a similar line of commentary, see Frow, *Genre*, 25–28. Frow himself is not exempt from the critique of idealism. While he defends the force of genre, his history of genre theory elevates the linguistic turn over the typological impulses of “Aristotelian categories.” See 51-71 for his account of this shift.
 
 20. Theodor W. Adorno, *Negative Dialectics*, trans. E.B. Ashton (New York: Continuum, 2007), 3.
 
@@ -160,13 +160,13 @@ Despite this, remembering should not always be construed as a lament. Turning to
 24. His topic is actually cinema, not genre *per se*; this quotation comes from the documentary by Sophie Fiennes, *The Pervert’s Guide to Cinema*. Also, I’m just going to have to bypass the question of desire itself, which obviously relates to Žižek’s interest in the psychoanalytic tradition and so links up to big questions about music and psychoanalysis (ones too big to broach here, sadly).
 
 
-25. G. W. F. Hegel, *Phenomenology of Spirit*, trans. A. V. Miller (Oxford: Oxford University Press, 1977), 40; See also the equally cryptic account of it in the introduction to The Science of Logic, trans. George Di Giovanni (New York: Cambridge University Press, 2010), 23–43; Karl Marx, *Capital: A Critique of Political Economy*, trans. Ben Fowkes, vol. 1 (New York: Penguin Books, 1976), 103; Adorno, *Hegel: Three Studies, trans. Shierry Weber Nicholsen* (Cambridge, MA: The MIT Press, 1994), 9.
+25. G. W. F. Hegel, *Phenomenology of Spirit*, trans. A. V. Miller (Oxford: Oxford University Press, 1977), 40; See also the equally cryptic account of it in the introduction to The Science of Logic, trans. George Di Giovanni (New York: Cambridge University Press, 2010), 23–43; Karl Marx, *Capital: A Critique of Political Economy*, trans. Ben Fowkes, Vol. 1 (New York: Penguin Books, 1976), 103; Adorno, *Hegel: Three Studies*, trans. Shierry Weber Nicholsen (Cambridge, MA: The MIT Press, 1994), 9.
 
 26. See Chapter 10, “The Working Day,” in Marx, Capital, 1:340–416.
  
 27. Slavoj Žižek, *Less Than Nothing: Hegel And The Shadow Of Dialectical Materialism* (Brooklyn, NY: Verso, 2012), 765–766.
 
-28. Angela Y. Davis, “Rape, Racism, and the Capitalist Setting,” *The Black Scholar* 09:07 (1981): 24–30.
+28. Angela Y. Davis, “Rape, Racism, and the Capitalist Setting,” *The Black Scholar* 09:07 (1978): 24–30.
 
 29. Jamil Abdullah Al-Amin, “Press Conference,” July 27, 1967.
 
@@ -182,12 +182,12 @@ Despite this, remembering should not always be construed as a lament. Turning to
 
 35. Eg. the history of capitalist accumulation (chapters 26-33) that concludes Marx, *Capital*, 1:873–940.
 
-36. JM Bernstein, “Introduction,” Hegel’s Phenomenology of Spirit, Lecture, September 6, 2006.
+36. JM Bernstein, “Introduction,” Lecture, *Hegel’s Phenomenology of Spirit*, The New School, September 6, 2006.
 
-37. The more accurate (and now standard) translation of the quotation is “the owl of Minerva begins its flight only with the onset of dusk.” I have modified it simply to stay closer to its more common usage, which sounds less awkward and actually captures the meaning of the phrase better. GWF Hegel, *Elements of the Philosophy of Right*, ed. Allen W. Wood, trans. H. B. Nisbet, Revised Edition (Cambridge University Press, 1991), 23.
+37. GWF Hegel, *Elements of the Philosophy of Right*, ed. Allen W. Wood, trans. H. B. Nisbet, Revised Edition (Cambridge University Press, 1991), 23. The more accurate (and now standard) translation of the quotation is “the owl of Minerva begins its flight only with the onset of dusk.” I have modified it simply to stay closer to its more common usage, which sounds less awkward and captures the meaning of the phrase better. 
 
 38. Rose, *Mourning Becomes the Law*, 69.
 
-39. Walter Benjamin, “On the Concept of History,” in *Selected Writings*, trans. Harry Zohn, vol. 04, 1938–40 (Belknap Press, 2004), 390.
+39. Walter Benjamin, “On the Concept of History,” in *Selected Writings*, trans. Harry Zohn, Vol. 4 (Belknap Press, 2004), 390.
  
 40. Amy Lynn Wlodarski, “The Testimonial Aesthetics of Different Trains,” *Journal of the American Musicological Society* 63:01 (April 1, 2010): 99–141.
