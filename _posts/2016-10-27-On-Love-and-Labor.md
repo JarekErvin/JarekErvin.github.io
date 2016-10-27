@@ -14,7 +14,7 @@ Cheng helpfully makes it clear this is not just a pervasive strategy for interpr
 academics frequently view their work and workplace as institutions under budgetary and ideological siege. Hardly a day goes by without multiple articles in the <i>Chronicle of Higher Education</i> reporting the financial gutting of universities. Anti-intellectualism evokes barbarians rattling the gates of the ivory tower, but adversariality also rages within the tower itself: notwithstanding the conventions and collegiality of mutual citation, scholars learn not just to write, but to write against—to uproot status quo, fill in lacunae, and change up the game.
 </blockquote>
 
-(That’s a quotation from the second chapter, “Sing the Ivory Tower Blues”). In what follows, I'll mostly use the term *critique*, since it's more neutral and less psychologically speculative. But generally, I think the argument is right on.
+(That’s a quotation from the second chapter, “Sing the Ivory Tower Blues”). In what follows, I'll mostly use Felski's term *critique* over paranoia, since it's more neutral and less psychologically speculative. But generally, I think the argument is right on.
 
 Cheng's alternative, like many others, is to call for a reparative strategy, one rooted in care, hope, and love. I won't review that end of the argument, especially because I’ve written at length about the reparative approach in my Felski post. I mostly want now to think alongside Cheng and bring the questions of labor and university even closer to the fore.
 
