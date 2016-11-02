@@ -4,17 +4,19 @@ layout: post
 
 This post started originally began as a reading response for a seminar I took at UVa with Fred Maus (*Writing about Music*, Spring 2014). Fred’s course was a great survey of a lot of major strategies for interpreting and writing about music; this class in particular set up an excellent debate about embodiment, politics, and the political economy of music. The texts in question were:
 
-TW Adorno, “On Popular Music”
-Walter Hughes, “In the Empire of the Beat”
-Maria Pini, “Moving Homes: Femininity Under Reconstruction”
-Maria Pini, “Cyborgs, Nomads, and the Raving Feminine”
-Alejandro Madrid, “Dancing with Desire”
+TW Adorno, “On Popular Music” <br>
+Walter Hughes, “In the Empire of the Beat” <br>
+Maria Pini, “Moving Homes: Femininity Under Reconstruction” <br>
+Maria Pini, “Cyborgs, Nomads, and the Raving Feminine” <br>
+Alejandro Madrid, “Dancing with Desire” <br>
 
-One of the major issues we were debating in the class was how well Adorno’s work holds up to later, more affirmative accounts of pop music. We especially focused on the way the account of embodiment and dance “On Popular Music” contrasts with more recent work on the topic. I’m obviously sympathetic to such later work. BUt I thought it would be helpful to stake out a defense of Adorno’s thought, in large part *because* so many (myself included) are instinctively sympathetic to his critics. It could stand to be way more thorough on every front, but I thought it was a nice enough piece that I’d post it without any revision. I poached my title from JM Bernstein’s great Adornian aesthetic theory, *Against Voluptuous Bodies* (I don’t actually draw on that text in anyway, I’m just trying to be cute).
+One of the major issues we were debating in the class was how well Adorno’s work holds up to later, more affirmative accounts of pop music. We especially focused on the way the account of embodiment and dance presented in “On Popular Music” contrasts with more recent work on the topic. I’m obviously sympathetic to such later work, which I think avoids a lot of the problems of Adorno's thinking on pop. But I thought it would be helpful to stake out a defense of Adorno, in large part *because* so many (myself included) are instinctively sympathetic to his critics. It could stand to be more thorough on every front, but I thought it was a nice enough piece that I’d post it without any revision. I poached my title from JM Bernstein’s great book on Adornian aesthetics, 
+
+<a href="http://www.sup.org/books/title/?id=6166" target="blank">*Against Voluptuous Bodies*</a> (I don’t actually draw on that text in anyway, I was just trying to be cute).
+<br>
 <br>
 
 **Against Contorting Bodies**
-
 <br>
 This week's assignment contrasts three visions of the utopian possibilities of electronic dance music (EDM) with an account of 1930s popular music published by Theodor Adorno in 1941. Each of the three dance essays attempts to theorize electronic music as a form of social, cultural, or political praxis.
 
