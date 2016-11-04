@@ -7,12 +7,10 @@ Here is the text of a talk I’ll be giving this week at the AMS/SMT Joint Meeti
 <br>
 <br>
 
-**Popular Music Studies and Historical Materialism**
-<br>
-
 *Part I: Historical Materialism & Pop Music Studies*
 <br>
-It might be said that popular music studies emerges as discipline only through the displacement of historical materialism.
+
+It might be said that popular music studies emerges only through the expulsion of historical materialism from the discipline.
 
 My point isn’t that pop studies as a whole is against Marx, nor do I even wish to question the value of much pop scholarship that is explicitly anti- or post-Marxist. Overthrowing Marx has been good for business, a business that I consider very much my own. But this, I think, starts to get at the point.
 
