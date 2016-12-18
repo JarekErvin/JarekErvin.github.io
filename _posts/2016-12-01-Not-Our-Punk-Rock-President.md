@@ -2,7 +2,8 @@
 layout: post
 ---
 
-I wrote a little piece about punk and Trump that I shopped around to a few magazines. I couldn’t find anyone to publish it, so I just decided to throw it up on my blog. Because the piece addresses far right/neo-nazi topics and I don’t want to link to that sort of stuff on my blog, I removed a bunch of links. Feel free to get in touch if you’re curious to see sources; I’ll gladly pass them over.
+I wrote a little piece about punk and Trump that I shopped around to a few magazines. I couldn’t find anyone to publish it, so I just decided to throw it up on my blog. Because the piece addresses far right/neo-nazi topics and I don’t want to link to that sort of stuff on my blog, I removed a bunch of links. Feel free to get in touch if you’re curious to see sources; I’ll gladly pass them over. Here goes:
+<br>
 
 The day after Donald Trump became president elect of the United States, The *New York Post* ran an op ed by Kyle Smith naming him the “<a href="http://nypost.com/2016/11/09/donald-trump-is-the-punk-rock-president-america-deserves" target="blank">Punk Rock President America Deserves</a>.” Comparing Trump’s iconoclasm to punk’s irreverence, Smith wrote:
 
@@ -13,15 +14,12 @@ Donald Trump may favor stodgy blue suits and boring red ties and wear his hair i
 
 Smith went on to draw a parallel between Trump’s belligerent public persona and Sid Vicious’s iconic performance of “<a href="https://www.youtube.com/watch?v=rDyb_alTkMQ" target="blank">My Way</a>.” Most famously associated with the 1969 <a href="https://www.youtube.com/watch?v=egY8rUpxqcE" target="blank">version by singing legend Frank Sinatra</a>, the one by the Sex Pistols’ bassist deploys an overblown faux-crooning style to mock the original evocation of wisdom born of old age. Vicious calls instead for adolescent defiance, sneering:
 <blockquote>
-
-Regrets, I've had a few
-But then again, too few to mention
-I did what I had to do
-And saw it through without exemption
-
+Regrets, I've had a few<br>
+But then again, too few to mention<br>
+I did what I had to do<br>
+And saw it through without exemption<br>
 </blockquote>
-
-
+<br>
 
 Ridiculing the association of prudence with measured reflection, he insists instead that punk is a fuck you to anyone who demands moderation in the name of decorum.
 
@@ -33,44 +31,38 @@ Less interesting than the questions of whether Trump is a punk – or of what so
 
 No button has been more enticing than fascism. Punks have long referenced Nazism, knowing that few things piss people off more than making light of the Holocaust. This dates back to punk’s earliest years. In the <a href="https://www.youtube.com/watch?v=z6Xae9jsqxU" target="blank">1970s</a> and <a href=" https://www.youtube.com/watch?v=V47_DQ3WT6c" target="blank">1980s</a>, punk artists and fans often evoked Nazi imagery, referencing fascism or the Third Reich as a way of scandalizing an older generation who still regarded World War II as recent history. Sid Vicious himself was fond of wearing a shirt with a large Swastika prominently displayed on the chest. The Sex Pistols also took this irreverence into their music. Most notable is their song “Belsen Was a Gas,” a song that described the German concentration camp Bergen-Belsen almost like a vacation resort:
 <blockquote>
-Belsen was a gas I heard the other day
-In the open graves where the jews all lay
-Life is fun and I wish you were here
-They wrote on postcards to those held dear
+Belsen was a gas I heard the other day<br>
+In the open graves where the jews all lay<br>
+Life is fun and I wish you were here<br>
+They wrote on postcards to those held dear<br>
 </blockquote>
+<br>
 
 Of course, however tasteless we might find the song, it is at least worth recalling its critical edge. The Pistols evoke fascism only to warn of Britain’s drift toward the right (a very real worry given that many white British were falling under the sway of
-<a href="https://www.theguardian.com/music/2008/apr/20/popandrock.race
-" target="blank">the far right National Front party in the late seventies</a>). “Belsen Was a Gas” offers not an endorsement but a warning about the persistence of fascist tendencies in Europe after the war. As the closing refrain of the song goes:
+<a href="https://www.theguardian.com/music/2008/apr/20/popandrock.race" target="blank">the far right National Front party in the late seventies</a>). “Belsen Was a Gas” offers not an endorsement but a warning about the persistence of fascist tendencies in Europe after the war. As the closing refrain of the song goes:
 
 <blockquote>
-Be a man be a man, Belson was a gas
-Be a man kill someone kill yourself be a man
-Be someone kill someone be a man kill yourself
+Be a man be a man, Belson was a gas<br>
+Be a man kill someone kill yourself be a man<br>
+Be someone kill someone be a man kill yourself<br>
 </blockquote>
+<br>
 
 These lyrics make clear that the narrator of the song is clearly a young man impelled by a sense of duty to comply with the Nazis (or the British). It’s a scathing indictment of patriotism in all its forms.
 
-Today, what should feel more problematic than the song’s irreverence is the way such gestures can quickly drift from critique to affection or outright endorsement. In punk, irreverence has long fallen on a spectrum spanning from agitation to outright fascism. In fact, as I wrote for *Jacobin* magazine, there is a
-<a href="https://www.jacobinmag.com/2016/06/punk-green-room-saulnier-skinheads-rar-rac-oi-national-front" target="blank">long-running tradition of white nationalist rock dating back to the 1970s</a>. There are far right subgenres of punk – Rock Against Communism (RAC) – and metal – National Socialist Black Metal (NSBM) – which, though despised by most punks, skinheads, and metal fans, remain remarkably pernicious. Bands like the British RAC pioneers Skrewdriver and the German NSBM group Absurd still function as musical icons, playing a powerful role in courting supporters for white supremacist projects. 
+Today, what should feel more problematic than the song’s irreverence is the way such gestures can quickly drift from critique to affection or outright endorsement. In punk, irreverence has long fallen on a spectrum spanning from agitation to outright fascism. In fact, as I wrote for *Jacobin* magazine, there is a <a href="https://www.jacobinmag.com/2016/06/punk-green-room-saulnier-skinheads-rar-rac-oi-national-front" target="blank">long-running tradition of white nationalist rock dating back to the 1970s</a>. There are far right subgenres of punk – Rock Against Communism (RAC) – and metal – National Socialist Black Metal (NSBM) – which, though despised by most punks, skinheads, and metal fans, remain remarkably pernicious. Bands like the British RAC pioneers Skrewdriver and the German NSBM group Absurd still function as musical icons, playing a powerful role in courting supporters for white supremacist projects. 
 
-Predictably, they have played a role in the recent emergence of the
-<a href="https://www.splcenter.org/fighting-hate/extremist-files/ideology/alternative-right" target="blank">Alt-Right</a>. The history of right wing punk is discussed on sites like *The Daily Stormer* and circulated on forums like *4chan* or through *YouTube*; Skrewdriver’s logo prominently appears on the 8chan /whitenationalism/ section. These sites offer new pathways toward the far right beyond the more traditional but less mainstream online platforms for National Socialist and white supremacist views.
+Predictably, they have played a role in the recent emergence of the <a href="https://www.splcenter.org/fighting-hate/extremist-files/ideology/alternative-right" target="blank">Alt-Right</a>. The history of right wing punk is discussed on sites like *The Daily Stormer* and circulated on forums like *4chan* or through *YouTube*; Skrewdriver’s logo prominently appears on the 8chan /whitenationalism/ section. These sites offer new pathways toward the far right beyond the more traditional but less mainstream online platforms for National Socialist and white supremacist views.
 
-The Alt-Right has also generated its own particular strain of post-RAC/NSBM music, one that links more traditional anti-Semitism and racism to current issues. A number of videos appear on YouTube, attributed to the group Blink 1488 (their name replaces Blink 182’s numbers with the neo-Nazi cyphers 
-<a href="https://www.splcenter.org/fighting-hate/intelligence-report/2015/racist-skinhead-glossary" target="blank">14 and 88</a>. The group is identified only as a creation of the group “Right Wing Death Squad,” whose reddit page promises “Chilean helicopter rides” to anyone who strays from white nationalism into “postmodern discourse.” Their Blink 182 parody song “What’s My Race Again” warns that “Europe is dying” under the weight of Arab immigration; the video alters Blink 182’s to feature the faces of men clad in turbans, and concludes with a section of a Trump speech warning about the “Muslim problem.”
+The Alt-Right has also generated its own particular strain of post-RAC/NSBM music, one that links more traditional anti-Semitism and racism to current issues. A number of videos appear on YouTube, attributed to the group Blink 1488 (their name replaces Blink 182’s numbers with the neo-Nazi cyphers <a href="https://www.splcenter.org/fighting-hate/intelligence-report/2015/racist-skinhead-glossary" target="blank">14 and 88</a>. The group is identified only as a creation of the group “Right Wing Death Squad,” whose reddit page promises “Chilean helicopter rides” to anyone who strays from white nationalism into “postmodern discourse.” Their Blink 182 parody song “What’s My Race Again” warns that “Europe is dying” under the weight of Arab immigration; the video alters Blink 182’s to feature the faces of men clad in turbans, and concludes with a section of a Trump speech warning about the “Muslim problem.”
 
-Unlike old school neo-Nazism, the Alt-Right tends to be more fluid in both political and musical terms. Just as it represents a range of political views and pastiches wildly from <a href="http://heavy.com/news/2016/11/alt-right-trump-alternative-white-nationalist-reddit-website-memes-what-is-it-definition-meaning-donald-steve-bannon-twitter-ban-nazi" target="blank">a broad spectrum of media</a>, it draws from a range of musical genres. This has compromised punk’s formerly privileged position as the chief musical vehicle for white nationalism. It now forms only one voice among many in the musical chatter of the far right. Right Wing Death Squad, for example, also makes use of hip hop and EDM in videos. Their Moon Man video – a contribution to
-
-<a href="http://www.salon.com/2016/10/25/meet-moon-man-the-alt-rights-new-racist-rap-sensation-borrowed-from-1980s-mcdonalds-ads" target="blank">a genre that functions as the musical analogue</a> to the <a href="http://www.vox.com/culture/2016/10/25/13341168/pepe-the-frog-alt-right-scott-adams" target="blank">Pepe the Frog image</a> – sets a slew of racist, anti-Islam, and homophobic diatribes against a ‘90s gangsta rap style backdrop.
+Unlike old school neo-Nazism, the Alt-Right tends to be more fluid in both political and musical terms. Just as it represents a range of political views and pastiches wildly from <a href="http://heavy.com/news/2016/11/alt-right-trump-alternative-white-nationalist-reddit-website-memes-what-is-it-definition-meaning-donald-steve-bannon-twitter-ban-nazi" target="blank">a broad spectrum of media</a>, it draws from a range of musical genres. This has compromised punk’s formerly privileged position as the chief musical vehicle for white nationalism. It now forms only one voice among many in the musical chatter of the far right. Right Wing Death Squad, for example, also makes use of hip hop and EDM in videos. Their Moon Man video – a contribution to <a href="http://www.salon.com/2016/10/25/meet-moon-man-the-alt-rights-new-racist-rap-sensation-borrowed-from-1980s-mcdonalds-ads" target="blank">a genre that functions as the musical analogue</a> to the <a href="http://www.vox.com/culture/2016/10/25/13341168/pepe-the-frog-alt-right-scott-adams" target="blank">Pepe the Frog image</a> – sets a slew of racist, anti-Islam, and homophobic diatribes against a ‘90s gangsta rap style backdrop.
 
 This isn’t to say that punk is irrelevant, or that Trump owes more to Pepe than punk. Rather, it is to say that a better comparison might be worth seeking out. Just as much of the Alt-Right today defines itself less by its commitments to traditional forms of white supremacy than by its knee-jerk trolling of the identity politics of so-called “Social Justice Warriors,” an older strain of punk reacts against both the left and the traditional right.
 
 This poses a potentially more helpful third punk analogy for Trump. Far more prominent than extreme right punk is a strain of that toes the line, avoiding far left and far right politics for a more center-right perspective. There is a long tradition of just this sort of punk in England and the US in particular. In the UK of the early eighties, there was a great deal of punk that stood in between the RAR and RAC, ignoring outright politics or endorsing a more neutral form of patriotism. Groups like 4 Skins, Cock Sparrer, and The Business had no explicit racist agenda, but failed to question the widespread support offered for them by those who did.
 
-Moreover, many such groups brought nationalist and anti-Left sentiments into their songs, however much they might formally reject National Front politics. Take Cock Sparrer’s
-“<a href="https://www.youtube.com/watch?v=eU8P0Ufwpl8” target="blank">England Belongs to Me</a>,” a song that proudly proclaimed that punks stand, “Heads held high, fighting all the way, for the red, white, and blue.” Or the title track from the Business’ 1983 *Suburban Rebels*. The song denounces left leaning punks such as
-<a href="https://www.youtube.com/watch?v=KmR3p3-LN94" target="blank">Tom Robinson Band</a> for their socialist sympathies. The Business castigates the “suburban rebels playing at reds” who “wave a hammer and sickle, never Union Jacks.”
+Moreover, many such groups brought nationalist and anti-Left sentiments into their songs, however much they might formally reject National Front politics. Take Cock Sparrer’s “<a href="https://www.youtube.com/watch?v=eU8P0Ufwpl8” target="blank">England Belongs to Me</a>,” a song that proudly proclaimed that punks stand, “Heads held high, fighting all the way, for the red, white, and blue.” Or the title track from the Business’ 1983 *Suburban Rebels*. The song denounces left leaning punks such as <a href="https://www.youtube.com/watch?v=KmR3p3-LN94" target="blank">Tom Robinson Band</a> for their socialist sympathies. The Business castigates the “suburban rebels playing at reds” who “wave a hammer and sickle, never Union Jacks.”
 
 This is a strain of punk that represents perhaps the original Alt-Right, one that emboldened the far right in its attacks the left. Just as the Business castigates socialism as the political response of the privileged bourgeoisie, today a strain of the disaffected working class casts blame on the identity politics of pampered college students. Like Trump, Cock Sparrer were white nationalists hiding in plain site; “England Belongs to Me” is the Brit-punk version of the refrain “Make America Great Again.” Theirs is the world that gave rise to Trump.
 
@@ -80,13 +72,6 @@ This too was a voice in punk’s early years. Take the British group Chelsea, wh
 
 Then and now, punk forms a prominent voice in the movement to resist fascism. Punk fans have long been critical of the blurry line between nationalism and outright fascism, and have <a href="https://nfaaf.wordpress.com/2015/12/15/screw-skrewdriver" target="blank">aggressively pushed back</a> at all attempts to co-opt punk by the right. They make it clear that punk stands at odds with the empty iconoclasm of the Alt-Right or the far right who hides behind them. Punk is a plea for vigilance against attempts to package up the disaffection of the working class under the banner fascism. As Aus-Rotten sings on their 1994 single “Fuck Nazi Sympathy,” “Don't give them their freedom, because they're not going to give you yours.”
 
-This sentiment has only become more urgent with the rise of Trumpism. Last year, a group called <a href="http://www.aktion-arschloch.de/about” target="blank">Aktion Arschloch!</a> (literally, “Action Asshole!”), who
-<a href="http://www.thelocal.de/20150911/anti-fascist-punk-song-tops-charts-for-refugees" target="blank">mounted a successful campaign</a> to bring the 1993 anti-fascist anthem “<a href="https://www.youtube.com/watch?v=6X9CEi8wkBc" target="blank">Schrei Nach Liebe</a>” (“Cry Out for Love”) by punk legends Die Ärzte back into the German music charts. Meanwhile, groups like <a href="https://angstnoise.bandcamp.com/album/moloch" target="blank">Ancst</a>, <a href="https://profanexistence.com/2016/11/14/dissidence-the-fields-of-war" target="blank">Dissidence</a>, and <a href="https://downtownboys.bandcamp.com/album/full-communism-3" target="blank">Downtown Boys</a> have continued to use punk to spread anti-fascist, environmentalist, and pro-socialist messages.
+This sentiment has only become more urgent with the rise of Trumpism. Last year, a group called <a href="http://www.aktion-arschloch.de/about” target="blank">Aktion Arschloch!</a> (literally, “Action Asshole!”), who <a href="http://www.thelocal.de/20150911/anti-fascist-punk-song-tops-charts-for-refugees" target="blank">mounted a successful campaign</a> to bring the 1993 anti-fascist anthem “<a href="https://www.youtube.com/watch?v=6X9CEi8wkBc" target="blank">Schrei Nach Liebe</a>” (“Cry Out for Love”) by punk legends Die Ärzte back into the German music charts. Meanwhile, groups like <a href="https://angstnoise.bandcamp.com/album/moloch" target="blank">Ancst</a>, <a href="https://profanexistence.com/2016/11/14/dissidence-the-fields-of-war" target="blank">Dissidence</a>, and <a href="https://downtownboys.bandcamp.com/album/full-communism-3" target="blank">Downtown Boys</a> have continued to use punk to spread anti-fascist, environmentalist, and pro-socialist messages.
 
-In the end, of course, punk never cast its lot with Trump (any more than it did with
-<a href="http://www.mtv.com/news/2888514/hardcore-under-trump/
-" target="blank">Bush</a> or <a href="https://www.youtube.com/watch?v=ix9VCgrJY98
-" target="blank">Reagan</a>). In fact, despite the theoretical parallels, punks have largely rallied around a different candidate: Bernie Sanders. Last year, <a href="https://www.punknews.org/article/59479/jello-biafra-wayne-kramer-mike-watt-others-endorse-bernie-sanders" target="blank">dozens of punk artists</a> joined with a broader coalition of musicians and cultural figures to petition in support of Sanders’ candidacy. And, in April, the artist Mickael Broth covered a Richmond, VA wall with a
-<a href="http://www.styleweekly.com/Studi/archives/2016/04/05/punk-rock-bernie-sanders-mural-goes-up-on-broad-street" target="blank">mural for Bernie Sanders</a>; the piece borrowed from the Circle Jerk’s iconic 
-
-<a href="http://punkygibbon.co.uk/bands/c/circlejerks_teenage.html" target="blank">“skank kid” logo</a>, renaming him “Bernie Slamders.” It remains to be seen what will come of Trump’s presidency or the momentum built behind Sanders, but one thing is for sure: Trump is not our punk rock president.
+In the end, of course, punk never cast its lot with Trump (any more than it did with <a href="http://www.mtv.com/news/2888514/hardcore-under-trump" target="blank">Bush</a> or <a href="https://www.youtube.com/watch?v=ix9VCgrJY98" target="blank">Reagan</a>). In fact, despite the theoretical parallels, punks have largely rallied around a different candidate: Bernie Sanders. Last year, <a href="https://www.punknews.org/article/59479/jello-biafra-wayne-kramer-mike-watt-others-endorse-bernie-sanders" target="blank">dozens of punk artists</a> joined with a broader coalition of musicians and cultural figures to petition in support of Sanders’ candidacy. And, in April, the artist Mickael Broth covered a Richmond, VA wall with a <a href="http://www.styleweekly.com/Studi/archives/2016/04/05/punk-rock-bernie-sanders-mural-goes-up-on-broad-street" target="blank">mural for Bernie Sanders</a>; the piece borrowed from the Circle Jerk’s iconic <a href="http://punkygibbon.co.uk/bands/c/circlejerks_teenage.html" target="blank">“skank kid” logo</a>, renaming him “Bernie Slamders.” It remains to be seen what will come of Trump’s presidency or the momentum built behind Sanders, but one thing is for sure: Trump is not our punk rock president.
