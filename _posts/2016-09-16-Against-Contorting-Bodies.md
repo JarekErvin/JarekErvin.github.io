@@ -10,9 +10,7 @@ Maria Pini, “Moving Homes: Femininity Under Reconstruction” <br>
 Maria Pini, “Cyborgs, Nomads, and the Raving Feminine” <br>
 Alejandro Madrid, “Dancing with Desire” <br>
 
-One of the major issues we were debating in the class was how well Adorno’s work holds up to later, more affirmative accounts of pop music. We especially focused on the way the account of embodiment and dance presented in “On Popular Music” contrasts with more recent work on the topic. I’m obviously sympathetic to such later work, which I think avoids a lot of the problems of Adorno's thinking on pop. But I thought it would be helpful to stake out a defense of Adorno, in large part *because* so many (myself included) are instinctively sympathetic to his critics. It could stand to be more thorough on every front, but I thought it was a nice enough piece that I’d post it without any revision. I poached my title from JM Bernstein’s great book on Adornian aesthetics, 
-
-<a href="http://www.sup.org/books/title/?id=6166" target="blank">*Against Voluptuous Bodies*</a> (I don’t actually draw on that text in anyway, I was just trying to be cute).
+One of the major issues we were debating in the class was how well Adorno’s work holds up to later, more affirmative accounts of pop music. We especially focused on the way the account of embodiment and dance presented in “On Popular Music” contrasts with more recent work on the topic. I’m obviously sympathetic to such later work, which I think avoids a lot of the problems of Adorno's thinking on pop. But I thought it would be helpful to stake out a defense of Adorno, in large part *because* so many (myself included) are instinctively sympathetic to his critics. It could stand to be more thorough on every front, but I thought it was a nice enough piece that I’d post it without any revision. I poached my title from JM Bernstein’s great book on Adornian aesthetics, <a href="http://www.sup.org/books/title/?id=6166" target="blank">*Against Voluptuous Bodies*</a> (I don’t actually draw on that text in anyway, I was just trying to be cute).
 <br>
 <br>
 
