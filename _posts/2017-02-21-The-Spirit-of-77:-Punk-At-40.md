@@ -1,5 +1,4 @@
-
----
+ ---
 layout: post
 ---
 
@@ -45,13 +44,13 @@ Not all of this should appear wholly at odds with punk’s spirit. Perhaps the g
 Even so, punks are wildly obsessed with curation. Punk is a nostalgic genre. There is a strain of punk that dwells in speculative history, remembrance, living in a world of history’s ghosts. This is true from its earliest years, when punk artists battled over the fate of rock and roll, to its latest, where punk forms one of the central pillars of our retro-obsessed moment. And, it certainly is true this year and last, as dozens of articles appeared to commemorate the lingering masterpieces of punk’s yesteryear. My title for the panel, “The Spirit of 77,” takes its cue from a song by Blank 77. Pioneers of street punk, a subculture obsessed with dressing like it’s Britain circa 1982, their song captures punk’s obsession with the past perfectly:
 
 <blockquote>
-I'm caught in a fuckin' time warp
-the styles never changing the music
-all sounds the same
-what ever happened to
-the punk rock of the past
-well now here we are
-to bring it back at last
+I'm caught in a fuckin' time warp<br>
+the styles never changing the music<br>
+all sounds the same<br>
+what ever happened to<br>
+the punk rock of the past<br>
+well now here we are<br>
+to bring it back at last<br>
 </blockquote>
 
 
