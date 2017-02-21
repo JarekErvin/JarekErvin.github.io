@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 ---
 
@@ -9,8 +9,8 @@ The stakes of the panel got dramatically upped in November, when, like many peop
 Interestingly, it also inspired a flurry of writing about punk’s place in this new moment, meaning that the panel is kind of busting at the seams with content. In order to give anyone interested a leg up on the discussion, I thought I would post a draft of my introduction along with a bibliography of some of the things I’ve been reading about punk in the last few months (I also tried to stick in a few things written by me and people on the panel). Since that intro offers a bit more context, I’ll wrap up the preface here.
 <br>
 <br>
+
 **The Spirit of ’77: Punk at 40**
-<br>
 <br>
 
 This panel takes its cue from the 40th anniversary of the album *Never Mind the Bollocks, Here’s the Sex Pistols*. Released in October 1977 – just months before the group dissolved – the album has long functioned as a stand-in for punk: ill-fated, catastrophic, terrifying, thrilling. In its moment, it scandalized the press and elated those who were searching for a new sound. In the forty years since its release, it has remained a rallying point. Now, it forms a site of initial exposure to punk for multiple generations. It is often the first sound linked up to that elusive word. In that sense, *Never Mind* functions as something of a perennial gateway to something that often comes to define – or haunt – our lives.
