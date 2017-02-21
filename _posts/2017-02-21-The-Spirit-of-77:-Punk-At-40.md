@@ -70,7 +70,6 @@ Punk echoes Newton's sentiment. Newton was warning that fond memories of childho
 
 **Selected Bibliography**
 <br>
-<br>
 
 *Remembering Punk*
 <br>
