@@ -2,11 +2,11 @@
 layout: post
 ---
 
-This week, I’ll be speaking on a panel at IASPM-US’s annual conference in Cleveland (Saturday 1:15-3:15, Ballroom B – please come!!). The panel is titled “The Spirit of ’77: Punk at 40.” I had the idea to put together this panel after seeing a flurry of eulogies, memorials, and *best of* lists dedicated to punk in the last year. Depending on whether a source says that the Ramones invented punk with their 1976 self-titled album or whether the Sex Pistols did with their 1977 *Never Mind the Bollocks, Here’s the Sex Pistols*, people have been calling this or last year the 40th anniversary of punk. I actually don’t have a horse in that race, but I did think it made good fodder for a discussion about what punk means today, how it has changed over the last forty years, and so on. I invited Steve Waksman, Jessica Schwartz, and David Ensminger – all people who I think have done really interesting work with punk in various guises (in the spirit of punk, we’re aiming for a lot of audience participation, so please come if you have stories, critiques, etc.).
+This week, I’ll be speaking on a panel at IASPM-US’s annual conference in Cleveland (Saturday 1:15-3:15, Ballroom B – please come!!). The panel is titled “The Spirit of ’77: Punk at 40.” I had the idea to put together this panel after seeing a flurry of eulogies, memorials, and *best of* lists dedicated to punk in the last year. Depending on whether a source says that the Ramones invented punk with their 1976 self-titled album or whether the Sex Pistols did with their 1977 *Never Mind the Bollocks, Here’s the Sex Pistols*, people have been calling this or last year the 40th anniversary of punk. I actually don’t have a horse in that race, but I did think it made good fodder for a discussion about what punk means today, how it has changed over the last forty years, and so on. To build the panel, I invited Steve Waksman, Jessica Schwartz, and David Ensminger – all people who I think have done really interesting work with punk in various guises (in the spirit of punk, we’re aiming for a lot of audience participation, so please come if you have stories, critiques, etc.).
 
-The stakes of the panel got dramatically upped in November, when, like many people, I was staggered to see Donald Trump elected as President of the US. What I originally conceived of as a bit of remembering the good ol’ days while debunking “invention of X” myths turned out to be wildly out of date. Anarchy, invented truths, all of that has come to mean something quite different in the month since Trump came to power. A blatant liar who many have accused of being a rampant, amoral opportunist, Trump’s presidency often feels like a game changer. For many of us punk fans who once courted irreverence and nihilism (and have long stood on the front lines against fascism), Trump seems cause for reassessment of the political power of punk (and all culture more generally).
+The stakes of the panel got dramatically upped in November, when, like many people, I was staggered to see Donald Trump elected as President of the US. What I originally conceived of as a bit of remembering the good ol’ days while debunking “invention of X” myths turned out to be wildly out of date. Anarchy, invented truths, all of that has come to mean something quite different in the month since Trump came to power. A blatant liar who many have accused of being a rampant, amoral opportunist, Trump’s presidency often feels like a game changer. For many of us punk fans who once courted irreverence and nihilism (or, have long stood on the front lines against fascism), Trump seems cause for reassessment of the political power of punk and culture more generally.
 
-Interestingly, it also inspired a flurry of writing about punk’s place in this new moment, meaning that the panel is kind of busting at the seams with content. In order to give anyone interested a leg up on the discussion, I thought I would post a draft of my introduction along with a bibliography of some of the things I’ve been reading about punk in the last few months (I also tried to stick in a few things written by me and people on the panel). Since that intro offers a bit more context, I’ll wrap up the preface here.
+Interestingly, it also inspired a flurry of writing about punk’s place in this new moment, meaning that the panel suddenly was busting at the seams with content. In order to give anyone interested a leg up on the discussion, I thought I would post a draft of my introduction along with a bibliography of some of the things I’ve been reading about punk in the last few months (I also tried to stick in a few things written by me and people on the panel). Since that intro offers a bit more context, I’ll wrap up the preface here.
 <br>
 <br>
 
@@ -71,7 +71,7 @@ Punk echoes Newton's sentiment. Newton was warning that fond memories of childho
 **Selected Bibliography**
 <br>
 
-*Remembering Punk*
+*Studying Punk, Remembering Punk*
 <br>
 
 Seth Mandel, <a href="http://nypost.com/2017/01/30/what-the-poser-punks-of-green-day-can-learn-from-the-sex-pistols/" target="blank"> “What the poser punks of Green Day can learn from the Sex Pistols”</a> (*New York Post*)
@@ -85,11 +85,17 @@ David Ensminger, <a href="http://www.houstonpress.com/music/40-years-of-ramones-
 Jarek Ervin, <a href=" http://jarekpaulervin.com/2016/07/11/Punk-Rock-Puppet-Show.html" target="blank">“Punk Rock Puppet Show”</a>  (*jarekpaulervin.com*)
 
 *Sounding Out* Series, <a href="https://soundstudiesblog.com/category/punk-sound/" target="blank">”Punk Sound”</a> (*Sounding Out!*)
+
+Steve Waksman, <a href="http://www.ucpress.edu/book.php?isbn=9780520257177" target="blank"><it>This Ain't the Summer of Love
+Conflict and Crossover in Heavy Metal and Punk</it></a> (*UC Press*)
 <br>
 <br>
 
-*Trump Punk*
+*Punk Politics*
 <br>
+
+David Ensminger, <a href="http://www.popmatters.com/post/160441-punk-protest-songs/" target="blank">"American As Apple Pie: Top 20 Punk Protest Songs for July 4th"</a> (*Pop Matters*)
+
 
 Kyle Smith, <a href="http://nypost.com/2016/11/09/donald-trump-is-the-punk-rock-president-america-deserves/" target="blank"> “Donald Trump is the punk-rock president America deserves” </a> (*New York Post*)
 
