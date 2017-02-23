@@ -70,6 +70,7 @@ Punk echoes Newton's sentiment. Newton was warning that fond memories of childho
 
 **Selected Bibliography**
 <br>
+<br>
 
 *From the Panelists*
 
@@ -96,6 +97,7 @@ Steve Waksman, <a href="https://www.upress.umn.edu/book-division/books/making-su
 
 *Studying Punk, Remembering Punk*
 <br>
+
 Seth Mandel, <a href="http://nypost.com/2017/01/30/what-the-poser-punks-of-green-day-can-learn-from-the-sex-pistols/" target="blank"> “What the poser punks of Green Day can learn from the Sex Pistols”</a> (*New York Post*)
 
 John Wiederhorn, <a href="http://loudwire.com/the-sex-pistols-never-mind-the-bollocks-heres-the-sex-pistols-album-anniversary/" target="blank"> “39 Years Ago: The Sex Pistols Release ‘Never Mind the Bollocks Here’s the Sex Pistols’”</a> (*Loudwire*)
@@ -110,6 +112,7 @@ Stephen Duncombe and Maxwell Tremblay, <a href="https://www.versobooks.com/books
 
 *Trump Punks*
 <br>
+
 Kyle Smith, <a href="http://nypost.com/2016/11/09/donald-trump-is-the-punk-rock-president-america-deserves/" target="blank"> “Donald Trump is the punk-rock president America deserves” </a> (*New York Post*)
 
 James Parker, <a href="https://www.theatlantic.com/magazine/archive/2016/10/donald-trump-sex-pistol/497528" target="blank">“Donald Trump, Sex Pistol”</a> (*The Atlantic*)
