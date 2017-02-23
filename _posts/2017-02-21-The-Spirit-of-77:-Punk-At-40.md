@@ -71,32 +71,45 @@ Punk echoes Newton's sentiment. Newton was warning that fond memories of childho
 **Selected Bibliography**
 <br>
 
-*Studying Punk, Remembering Punk*
+*From the Panelists*
+
+David Ensminger, <a href="http://www.houstonpress.com/music/40-years-of-ramones-mania-8479364" target="blank">40 Years of Ramones Mania</a> (*Houston Press*)
+
+David Ensminger, <a href="http://www.popmatters.com/post/160441-punk-protest-songs/" target="blank">"American As Apple Pie: Top 20 Punk Protest Songs for July 4th"</a> (*Pop Matters*)
+
+Jarek Ervin, <a href="http://jarekpaulervin.com/2016/07/11/Punk-Rock-Puppet-Show.html" target="blank">“Punk Rock Puppet Show”</a>  (*jarekpaulervin.com*)
+
+Jarek Ervin, <a href="http://jarekpaulervin.com/2016/12/01/Not-Our-Punk-Rock-President.html" target="blank">“Not Our Punk Rock President”</a> (*jarekpaulervin.com*)
+
+Jarek Ervin, <a href="https://www.jacobinmag.com/2016/06/punk-green-room-saulnier-skinheads-rar-rac-oi-national-front/" target="blank">"Inside the Green Room"</a> (*Jacobin*)
+
+Jessica Schwartz, <a href="http://www.ingentaconnect.com/contentone/intellect/punk/2015/00000004/F0020002/art00004" target="blank">"Listening in Circles: Punk Pedagogy and the Decline of Western Music Education"</a> (*Punk & Post-Punk*, Vol. 4, No. 2-3)
+
+Jessica Schwartz, <a href="http://www.ingentaconnect.com/contentone/intellect/punk/2016/00000005/00000001/art00005?crawler=true" target="blank">"Sí se puede!: Chicas Rockeras and Punk Music Education in South East Los Angeles"</a> (*Punk & Post-Punk*, Vol. 5, No. 1)
+
+Steve Waksman, <a href="http://www.ucpress.edu/book.php?isbn=9780520257177" target="blank"><it>This Ain't the Summer of Love
+Conflict and Crossover in Heavy Metal and Punk</it></a> (*UC Press*)
+
+Steve Waksman, <a href="https://www.upress.umn.edu/book-division/books/making-suburbia" target="blank">"Suburban Noise: Getting Inside Garage Rock"</a> (in *Making Suburbia*, Minnesota, 2015)
+<br>
 <br>
 
+*Studying Punk, Remembering Punk*
+<br>
 Seth Mandel, <a href="http://nypost.com/2017/01/30/what-the-poser-punks-of-green-day-can-learn-from-the-sex-pistols/" target="blank"> “What the poser punks of Green Day can learn from the Sex Pistols”</a> (*New York Post*)
 
 John Wiederhorn, <a href="http://loudwire.com/the-sex-pistols-never-mind-the-bollocks-heres-the-sex-pistols-album-anniversary/" target="blank"> “39 Years Ago: The Sex Pistols Release ‘Never Mind the Bollocks Here’s the Sex Pistols’”</a> (*Loudwire*)
 
 *Rolling Stone* Roundtable, <a href="http://www.rollingstone.com/music/lists/40-greatest-punk-albums-of-all-time-20160406" target="blank">”40 Greatest Punk Albums of All Time”</a> (*Rolling Stone*)
 
-David Ensminger, <a href="http://www.houstonpress.com/music/40-years-of-ramones-mania-8479364" target="blank">40 Years of Ramones Mania</a> (*Houston Press*)
-
-Jarek Ervin, <a href=" http://jarekpaulervin.com/2016/07/11/Punk-Rock-Puppet-Show.html" target="blank">“Punk Rock Puppet Show”</a>  (*jarekpaulervin.com*)
+Stephen Duncombe and Maxwell Tremblay, <a href="https://www.versobooks.com/books/957-white-riot" target="blank"><it>White Riot: Punk Rock and the Politics of Race</it></a> (*Verso*, 2011)
 
 *Sounding Out* Series, <a href="https://soundstudiesblog.com/category/punk-sound/" target="blank">”Punk Sound”</a> (*Sounding Out!*)
-
-Steve Waksman, <a href="http://www.ucpress.edu/book.php?isbn=9780520257177" target="blank"><it>This Ain't the Summer of Love
-Conflict and Crossover in Heavy Metal and Punk</it></a> (*UC Press*)
 <br>
 <br>
 
-*Punk Politics*
+*Trump Punks*
 <br>
-
-David Ensminger, <a href="http://www.popmatters.com/post/160441-punk-protest-songs/" target="blank">"American As Apple Pie: Top 20 Punk Protest Songs for July 4th"</a> (*Pop Matters*)
-
-
 Kyle Smith, <a href="http://nypost.com/2016/11/09/donald-trump-is-the-punk-rock-president-america-deserves/" target="blank"> “Donald Trump is the punk-rock president America deserves” </a> (*New York Post*)
 
 James Parker, <a href="https://www.theatlantic.com/magazine/archive/2016/10/donald-trump-sex-pistol/497528" target="blank">“Donald Trump, Sex Pistol”</a> (*The Atlantic*)
@@ -107,5 +120,3 @@ Steph Harmon, <a href="https://www.theguardian.com/music/australia-news-blog/201
 Scott Timberg, <a href="http://www.alternet.org/news-amp-politics/no-amanda-palmer-donald-trump-will-not-make-punk-rock-great-again" target="blank"> “Don't Bet That Donald Trump Will 'Make Punk Rock Great Again'”</a> (*Alternet*)
 
 Steve Knopper, <a href="http://www.rollingstone.com/music/features/jello-biafra-on-how-to-resist-trump-why-punk-still-matters-w458690" target="blank">“Jello Biafra on How to Stand Up to Trump, Why Punk Still Matters”</a> (*Rolling Stone*)
-
-Jarek Ervin, <a href="http://jarekpaulervin.com/2016/12/01/Not-Our-Punk-Rock-President.html" target="blank">“Not Our Punk Rock President”</a> (*jarekpaulervin.com*)
