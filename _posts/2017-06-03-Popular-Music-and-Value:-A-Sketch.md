@@ -1,4 +1,4 @@
-(This is the text of a talk I’m giving at Left Forum this weekend. The panel is a discussion of <a href="http://www.brill.com/products/book/art-and-value” target="_blank”><em>Art and Value</em></a> by Dave Beech. Beech will be responding to my paper along with three others.)
+(This is the text of a talk I’m giving at Left Forum this weekend. The panel is a discussion of <a href="http://www.brill.com/products/book/art-and-value" target="_blank"><em>Art and Value</em></a> by Dave Beech. Beech will be responding to my paper along with three others.)
 
 Dave Beech’s <em>Art and Value</em> rocks not just the foundation of theories about the relationship of art and capitalism, but most academic and critical theories of culture. Such work cannot but presuppose something about economics, whether concerned with meaning, social function, or artistic form in a society shaped paradigmatically by its relationship to the marketplace. As Beech forcefully shows, these presuppositions have been poor.
 
