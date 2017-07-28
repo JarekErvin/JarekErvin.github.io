@@ -2,10 +2,6 @@
 layout: post
 ---
 
-I wrote a little piece about punk and Trump that I shopped around to a few magazines. I couldn’t find anyone to publish it, so I just decided to throw it up on my blog. Because the piece addresses far right/neo-nazi topics and I don’t want to link to that sort of stuff on my blog, I removed a bunch of links. Feel free to get in touch if you’re curious to see sources; I’ll gladly pass them over. Here goes:
-<br>
-<br>
-
 The day after Donald Trump became president elect of the United States, The *New York Post* ran an op ed by Kyle Smith naming him the “<a href="http://nypost.com/2016/11/09/donald-trump-is-the-punk-rock-president-america-deserves" target="blank">Punk Rock President America Deserves</a>.” Comparing Trump’s iconoclasm to punk’s irreverence, Smith wrote:
 
 <blockquote>
