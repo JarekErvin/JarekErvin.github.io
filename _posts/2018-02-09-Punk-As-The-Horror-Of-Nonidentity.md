@@ -60,7 +60,7 @@ Exemplary of this sound for me is “All Night Long,” a song that was recorded
 
 <br>
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hGV0GC9SjHM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="50%" src="https://www.youtube.com/embed/hGV0GC9SjHM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </center>
 <br>
 
