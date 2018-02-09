@@ -48,7 +48,7 @@ Bernstein writes at length about Cindy Sherman’s 1985 photograph <em>Untitled 
 
 <br>
 <center>
-<img src="https://images.huffingtonpost.com/2013-10-11-CS_153_FINAL_MOMA_V2_MM.jpg" width="50%" alt="Cindy Sherman, Untitled 153">
+<a href="https://images.huffingtonpost.com/2013-10-11-CS_153_FINAL_MOMA_V2_MM.jpg" target="_blank"><img src="https://images.huffingtonpost.com/2013-10-11-CS_153_FINAL_MOMA_V2_MM.jpg" width="50%" alt="Cindy Sherman, Untitled 153"></a>
 </center>
 <br>
 
