@@ -38,7 +38,7 @@ Suicide’s music doesn’t really “work” as rock and roll. Indeed, their so
 
 <br>
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/npjvms1J2Zk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="50%" src="https://www.youtube.com/embed/npjvms1J2Zk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </center>
 <br>
 
