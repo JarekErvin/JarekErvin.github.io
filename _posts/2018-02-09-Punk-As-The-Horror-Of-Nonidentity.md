@@ -46,9 +46,11 @@ Thinking about their work reminded me of a book about visual art by the philosop
 
 Bernstein writes at length about Cindy Sherman’s 1985 photograph <em>Untitled 153</em>.
 
+<br>
 <center>
 <img src="https://images.huffingtonpost.com/2013-10-11-CS_153_FINAL_MOMA_V2_MM.jpg" width="50%" alt="Cindy Sherman, Untitled 153">
 </center>
+<br>
 
 The picture is a disturbing work, partially because it displays a curious affection for photography as a medium. The work is obviously frightening at the level of content: it implies—without ever quite confirming—that some horrific act of violence (perhaps sexual) has befallen the person depicted in it. Curiously though, from a formal standpoint, the picture seems partially disinterested in content. It is perfectly posed and framed. The woman is aestheticized, presented as almost beautiful. Bernstein reads this photograph as horrific in an aesthetic sense. It is an indictment of photography as a medium, which almost passively captures something deserving not aesthetics but moral indignation. Photography cannot deliver. In this sense, Sherman poses the horror of nonidentity between medium and expressive ends. Bernstein says the photo asks us “who killed this woman,” but it can only answer: “the camera did it.”
 
