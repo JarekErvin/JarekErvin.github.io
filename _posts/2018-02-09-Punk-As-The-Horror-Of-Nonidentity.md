@@ -28,7 +28,7 @@ One of the things I find especially staggering about listening to some of their 
 
 <br>
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h9nE2spOw_o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="50%" src="https://www.youtube.com/embed/h9nE2spOw_o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </center>
 <br>
 
