@@ -1,5 +1,6 @@
-
-
+---
+layout: post
+---
 
 In a previous post, I discussed an education program I've been organizing here in Philly called the Philly DSA Night School. The project is a collaboration with Melissa Naschek, one of the Co-Chairs of Philly DSA. We developed a kit for our Night School, intended to help people interested in developing similar programs; check it out here.
 
