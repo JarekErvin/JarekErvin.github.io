@@ -74,4 +74,4 @@ In the end, one of the members of our Political Education Committee developed a 
 
 Soon after launching the Night School, Melissa and I started receiving messages from other people doing similar work around the country, asking for help or offering suggestions about how to improve the program. We eventually decided to put together a kit for people who wanted materials. We wrote an essay summing up our design philosophy, and included sample materials and templates people could adapt for their own political education projects.
 
-Check out the Philly DSA Night School Kit <a href="jarekpaulervin.com/nightschool.pdf" target="_blank">here</a>!
+Check out the Philly DSA Night School Kit <a href="http://jarekpaulervin.com/nightschool.pdf" target="_blank">here</a>!
