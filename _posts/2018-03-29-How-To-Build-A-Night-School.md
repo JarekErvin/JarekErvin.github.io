@@ -2,14 +2,14 @@
 layout: post
 ---
 
-In a <a href="http://jarekpaulervin.com/2018/03/22/Teaching-Update.html" target="_blank">previous post</a>, I discussed an education program I've been organizing here in Philly called the Philly DSA Night School. The project is a collaboration with Melissa Naschek, one of the Co-Chairs of Philly DSA. We developed a kit for our Night School, intended to help people interested in developing similar programs; check it out here.
+In a <a href="http://jarekpaulervin.com/2018/03/22/Teaching-Update.html" target="_blank">previous post</a>, I discussed an education program I've been organizing here in Philly called the Philly DSA Night School. The project is a collaboration with Melissa Naschek, one of the Co-Chairs of Philly DSA. We developed a kit for our Night School, intended to help people interested in developing similar programs; check it out <a href="http://jarekpaulervin.com/nightschool.pdf" target="_blank">here</a>.
 
 I figured that I would post the essay we wrote for the kit, explaining our educational philosophy and presenting some ideas about how to design similar programs. Our kit also has a number of sample materials and templates.
 <br>
 <br>
 
 <center>
-<strong>How to Build a Night School</strong><br>
+<h1>How to Build a Night School</h1><br>
 by Jarek Paul Ervin & Melissa Naschek
 </center>
 <br>
