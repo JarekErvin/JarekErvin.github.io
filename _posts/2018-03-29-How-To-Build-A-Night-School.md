@@ -2,9 +2,7 @@
 layout: post
 ---
 
-In a <a href="http://jarekpaulervin.com/2018/03/22/Teaching-Update.html" target="_blank">previous post</a>, I discussed an education program I've been organizing here in Philly called the Philly DSA Night School. The project is a collaboration with Melissa Naschek, one of the Co-Chairs of Philly DSA. We developed a kit for our Night School, intended to help people interested in developing similar programs; check it out <a href="http://jarekpaulervin.com/nightschool.pdf" target="_blank">here</a>.
-
-I figured that I would post the essay we wrote for the kit, explaining our educational philosophy and presenting some ideas about how to design similar programs. Our kit also has a number of sample materials and templates.
+In a <a href="http://jarekpaulervin.com/2018/03/22/Teaching-Update.html" target="_blank">previous post</a>, I discussed an education program I've been organizing here in Philly called the Philly DSA Night School. The project is a collaboration with Melissa Naschek, one of the Co-Chairs of Philly DSA. We have started developing a kit for our Night School, intended to help people interested in developing similar programs; check it out <a href="http://jarekpaulervin.com/nightschool.pdf" target="_blank">here</a>. I figured that I would post the most current version of the essay we wrote for the kit, explaining our educational philosophy and presenting some ideas about how to design similar programs.
 <br>
 <br>
 
@@ -15,7 +13,7 @@ by Jarek Paul Ervin & Melissa Naschek
 <br>
 <br>
 
-The Night School is not a “school” in the conventional sense. There are no grades or Powerpoint slides, no fees or enrollment lists, and no prerequisites. Anyone, DSA member or not, may attend the Night School. They may do so for as many or few sessions as they choose. Attendees may participate in discussions as much or as little as they like, and familiarity with socialist theory is not assumed.
+The Night School is not a “school” in the conventional sense. There are no grades or Powerpoint slides, no fees or enrollment lists, and no prerequisites. Anyone, DSA member or not, may attend the Night School. They may do so for as many or few sessions as they choose. Attendees may also participate in discussions as much or as little as they like, and familiarity with socialist theory is not assumed.
  
 In Philadelphia’s current program, the Night School meets twice per month and is scheduled to last last from July 2017 until May 2018. Alternative structures such as a 3- or 6-month program can easily be developed, and might take into account any number of factors (e.g. a less active or more widely dispersed population, a busier organizing calendar).
  
@@ -25,21 +23,21 @@ The Night School is similar to traditional Left programs like a <em>Jacobin</em>
 
 <strong>Educational Goals</strong>
 
-Socialists engage in intellectual activity not simply because political questions are interesting, but because the answers to those questions have consequences for the world. The Night School is not intended as a substitute for organizing work, nor is it based on the assumption that one must know <em>Capital</em> in its entirety in order to be active on the Left. Scholarship is no substitute for the hard work of organizing.
+We engage in intellectual activity not simply because political questions are interesting, but because the answers to those questions have consequences for the world. The Night School is not intended as a substitute for organizing work, nor is it based on the assumption that one must know <em>Capital</em> in its entirety in order to be active on the Left. Scholarship is no substitute for the hard work of organizing.
 
 Even so, we reject the dichotomy all too commonly drawn between theory and practice. Further, we take seriously the role of intellectual activity—of writing, thinking, and debate—that has always animated leftist activity. Ultimately, we believe that the Left can only hope to be a political force if we link thought to action.
 
 In this sense, the Night School is more than just a reading group. It is intended to offer DSA a space for serious thinking about the past, present, and future of socialist politics. On its face, putting together a discussion group can seem rather trivial: pick some readings, find a space, and then start talking. But our larger goals come with unique challenges that should shape a political education program.
 
-Our slogan for the Night School is “an approachable but rigorous series of ideological discussions.” People coming to DSA possess varying levels of experience with theory and organizing skills. Some of us have been lucky enough to spend years memorizing <em>Rules for Radicals</em> or writing a thesis unleashing a devastating critique of Lenin’s thought. Many others have not had these luxuries. An organization that treats all as equal regardless of familiarity with doctrine, dogma, or skills needs an education program capable of attracting and integrating people of differing backgrounds.
+Our slogan for the Night School is “an approachable but rigorous series of ideological discussions.” People coming to DSA possess varying levels of experience with theory and organizing work. Some of us have been lucky enough to spend years memorizing <em>Rules for Radicals</em> or writing a thesis unleashing a devastating critique of Lenin’s thought. Many others have not had these luxuries. An organization that treats all as equal regardless of familiarity with doctrine, dogma, or skills needs an education program capable of attracting and integrating people of differing backgrounds.
 
 We call our program “approachable” because our goal is to bring together these people. We designed our course with the assumption that all who come would minimally have an interest in learning more about the Left, but we presuppose no specific knowledge, not even of foundational concepts such as socialism, democracy, or capitalism. Even so, the Night School is not designed as a pure introduction. While our sessions often start by establishing working definitions of baseline terms, discussions are designed to lead to deeper questions and facilitate debates that should interest even a socialist who has spent a decade reading radical theory.
 
-Despite this concern, the Night School is still “rigorous.” Our program is rooted in the belief that all people are capable of serious intellectual work. It is designed encourage people to engage with ideas that are difficult, new, and even antithetical to their core assumptions. We do not want to subject people to speeches or tell them what to think, but we do believe that by putting different political perspectives in front of people and asking questions, people can assess the merits of arguments and become better at defending their beliefs. 
+For this reason, the Night School is still “rigorous.” Our program is rooted in the belief that all people are capable of serious intellectual work. It is designed encourage people to engage with ideas that are difficult, new, and even antithetical to their core assumptions. We do not want to subject people to speeches or tell them what to think, but we do believe that by putting different political perspectives in front of people and asking questions, people can assess the merits of arguments and become better at defending their beliefs. 
 
 In the end, the Night School is designed to create an alternative to an all-too common liberal notion of “The Discourse.” While most socialists understand that the mainstream is hostile to socialism (and really, to any program that urges radical egalitarian change), we have inherited many of our norms from the Center. Leftists regularly exchange political ideas at the level of snappy takes or critiques of form rather than content (the endless process of sifting through takes for good or bad faith). These practices are rooted in the ideological notion that some perspectives should be accepted without reflection. 
 
-We reject this approach to thought. In order to foster a climate of genuine debate and discussion, we try to understand the ideas behind arguments along with the political implications of certain premises. Past a commitment to the creative potential of human beings, no one is told what to think or what conclusions to draw. Instead, everyone is encouraged to voice their opinions, helping to create an atmosphere that is inquisitive, lively, and dedicated to the growth of political thought.
+We reject this approach to thought. In order to foster a climate of genuine debate and discussion, we try to understand the ideas behind arguments along with the political implications that arise from them. Past a commitment to the creative potential of human beings, we have no doctrine. No one is told what to think or what conclusions to draw. Instead, everyone is encouraged to voice their opinions, helping to create an atmosphere that is inquisitive, lively, and dedicated to the growth of political thought.
 <br>
 <br>
 
@@ -47,20 +45,20 @@ We reject this approach to thought. In order to foster a climate of genuine deba
 
 Our Syllabus is “modular” in construction. It presents a sequence of topics arranged into a curriculum. You can easily choose topics that best suit the interests and needs of your chapter, highlighting not only your educational goals (e.g. an overview of Marxian theory), but also issues that align with larger organizational activities (e.g. a session on Healthcare to prepare for a Single Payer Campaign).
 
-Our Night School covers a diversity of topics, focused around three key areas:
+Our Night School covers a diversity of topics, anchored by three key areas:
  
 <ul>
-<li>History: the history of the Left, from the Russian Revolution to the Trump election</li>
-<li>Theory: theoretical approaches to socialist thought, from Marx and Engels’ Communist Manifesto to DSA’s “Resistance Rising”</li>
-<li>Practice: organizing concerns of contemporary Left activity, from M4A to BDS</li>
+<li><strong>History</strong>: the history of the Left, from the Russian Revolution to the Trump election</li>
+<li><strong>Theory</strong>: theoretical approaches to socialist thought, from Marx and Engels’ Communist Manifesto to DSA’s “Resistance Rising”</li>
+<li><strong>Practice</strong>: organizing concerns of contemporary Left activity, from M4A to BDS</li>
 </ul>
 <br>
  
-In developing our Night School, we wanted to strike a balance between these three areas. It is tempting to respond to a sense of intellectual priority (e.g. a belief that reading Marx is necessary for socialists) or urgency (e.g. the need to get people to show up for local campaigns). We avoid this narrow focus. Our syllabus includes texts with deep theoretical significance, such as Marxian economics and Feminist social reproduction theory, as well as topics linked to our campaigns (e.g. a session on Medicare for All) and branches (e.g. a session on Labor being led by members of our Labor Branch).
+In developing our Night School, we wanted to strike a balance between these three concerns. It is tempting to respond to a sense of intellectual priority (e.g. a belief that reading Marx is necessary for socialists) or urgency (e.g. the need to get people to show up for local campaigns). We avoid this narrow focus. Our syllabus includes texts with deep theoretical significance, such as Marxian economics and Feminist social reproduction theory, as well as topics linked to our campaigns (e.g. a session on Medicare for All) and branches (e.g. a session on Labor being led by members of our Labor Branch).
 
 The Night School is intended to link up these aspects of socialist activity, which are typically regarded as separate. We reject a common tendency to prioritize current events or separate theory from “the work.” There are no practical programs which are not conditioned by ideological assumptions, and our political choices construct and redefine our ideas.
 
-In this spirit, the Night School might include not only canonic thinkers (e.g. Rosa Luxemburg, CLR James), but also contemporary public intellectuals (e.g. Noam Chomsky, Adolph Reed), recent writing (e.g. <em>The New Jim Crow</em>, the <em>Jacobin</em> debate on prison abolition), and the broad range of platforms where contemporary Left thought appears (e.g. <em>In These Times</em> and <em>Viewpoint</em> as well as publishers such as Verso and Haymarket). Ultimately, goal is not only to teach people about the content of books, but also to help people navigate the many formats and institutions that structure political discourse.
+In this spirit, the Night School might include not only canonic thinkers (e.g. Rosa Luxemburg, CLR James), but also contemporary public intellectuals (e.g. Noam Chomsky, Adolph Reed), recent writing (e.g. <em>The New Jim Crow</em>, the <em>Jacobin</em> debate on prison abolition), and the broad range of platforms where contemporary Left thought appears (e.g. <em>In These Times</em> and <em>Viewpoint</em> as well as publishers such as Verso and Haymarket). Ultimately, our goal is not only to teach people the content of books, but also to help people navigate the many formats and institutions that structure political discourse.
 
 Covering all of these issues would create a rather daunting list of topics, taking up decades of Night Schools. When creating our Night School, we asked ourselves about the most important intellectual tools that any Night School attendee might leave with and use. This led us to do a careful evaluation of foundational ideas, central debates, and crucial political histories. Many people in the Philadelphia chapter were working on programs like Medicare for All, constantly trying to figure out how to strategically plan and refine organizing work. The Night School was a chance to step back and ask about common points of contention when considering an organizing task or strategy.
 
