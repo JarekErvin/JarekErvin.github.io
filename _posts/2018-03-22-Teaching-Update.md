@@ -30,7 +30,7 @@ The goal, then, is to give them a taste not only of the fun questions that we ge
 
 On the first day of class, I learned that a number of my students are performers (mostly in the jazz orbit) who don’t plan to apply to research-based PhD programs. For this reason, I modified the class slightly. We’re still blasting through journal articles each week, but I tweaked assignments and topics to better encompass the types of careers my students might have. I said that people could choose to write either a personal statement or a cover letter of the sort they might send to a prospective employer, and also worked on pitching popular press pieces alongside abstracts for journal-style articles. I further broadened the questions we were discussing, asking my students to think about what sorts of practical knowledge theory creates: does theory helps us get closer to music or estrange us from it?
 
-Check out my syllabus <a href="JarekErvin.github.io/syllabus-must3896.pdf" target="_blank">here</a>.
+Check out my syllabus <a href="http://jarekpaulervin.com/syllabus-must3896.pdf" target="_blank">here</a>.
 <br>
 <br>
 
@@ -48,7 +48,7 @@ I also felt it was important to go beyond the standard rep that might be covered
 
 Another major thing I did was bring up problems related to music History with a capital H: What makes music “new”? What does it mean for music to be “since” or “after” the common practice era? Does classical music have any relevance to our contemporary world? At the end of the semester, we had a discussion about whether classical music was dead or not. I’m pleased to report that one of my students quickly said the obvious answer was "yes," that most of my students said I was asking a silly question, and that we then had an hour-long discussion about how the answer was ultimately something like “Yes, no, and…”
 
-<a href="JarekErvin.github.io/syllabus-mh345.pdf" target="_blank">Here</a> is my syllabus for the class.
+<a href="http://jarekpaulervin.com/syllabus-mh345.pdf" target="_blank">Here</a> is my syllabus for the class.
 <br>
 <br>
 
