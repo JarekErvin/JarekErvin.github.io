@@ -2,7 +2,9 @@
 layout: post
 ---
 
-In a <a href="http://jarekpaulervin.com/2018/03/22/Teaching-Update.html" target="_blank">previous post</a>, I discussed an education program I've been organizing here in Philly called the Philly DSA Night School. The project is a collaboration with Melissa Naschek, one of the Co-Chairs of Philly DSA. We have started developing a kit for our Night School, intended to help people interested in developing similar programs; check it out <a href="http://jarekpaulervin.com/nightschool.pdf" target="_blank">here</a>. I figured that I would post the most current version of the essay we wrote for the kit, explaining our educational philosophy and presenting some ideas about how to design similar programs.
+In a <a href="http://jarekpaulervin.com/2018/03/22/Teaching-Update.html" target="_blank">previous post</a>, I discussed an education program I've been organizing here in Philly called the Philly DSA Night School. The project is a collaboration with Melissa Naschek, one of the Co-Chairs of Philly DSA. We have started developing a kit for our Night School, intended to help people interested in developing similar programs; check it out <a href="https://s3.amazonaws.com/actionkit-dsausa/images/Nightschool_Guide.pdf" target="_blank">here</a>. [Update: since writing this post, we've published a much nicer version of the guide, which I've linked to here.]
+
+I figured that I would post the essay we wrote for the kit, explaining our educational philosophy and presenting some ideas about how to design similar programs.
 <br>
 <br>
 
