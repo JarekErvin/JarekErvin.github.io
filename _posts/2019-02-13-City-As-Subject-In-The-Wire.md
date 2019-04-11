@@ -3,9 +3,9 @@ layout: post
 ---
 I spent my winter break watching <em>The Wire</em>, which has been on my watchlist for a long time.
 
-Beyond curiosity about a hyped up prestige drama, the show was also a carrot dangled in front of me because of Jameson’s often-discussed 2010 essay "<a href="https://muse.jhu.edu/article/447304" target="_blank">Realism and Utopia in the Wire</a>." Many people have spoken positively to me about the piece as a work of criticism–one that is especially interesting given that social commentary on TV has become a standard part of cultural criticism.
+Beyond curiosity about a hyped up prestige drama, the show was also a carrot dangled in front of me because of Fredric Jameson’s often-discussed 2010 essay "<a href="https://muse.jhu.edu/article/447304" target="_blank">Realism and Utopia in the Wire</a>." Many people have spoken positively to me about the piece as a work of criticism–one that is especially interesting given  it anticipates a form of social commentary on TV that has become a standard part of cultural criticism.
 
-Now that I’ve finished the show, I am in a position to read Jameson’s piece.
+Now that I’ve finished the show, I was finally in a position to read Jameson’s piece.
 
 As far as I understand his position: <em>The Wire</em> is a kind of post-procedural, which hybridizes elements from the organized crime romance, the thriller, and so on, set in a structure that blurs lines between “epic” literature and the instantly consumable evening television serial.
 
@@ -15,13 +15,13 @@ The article also stresses the fundamentally “sociological” character of the 
 
 This question of solution gets to the heart of Jameson’s deployment of the concepts of realism and utopia, to which I’ll return below. But, Jameson’s article helped me clarify some of my own thoughts.
 
-What follows is less a rebuttal of Jameson’s article, than an attempt to present a few of my thoughts in dialog with the essay. In general, I find much convincing in the piece, and some of what I do find objectionable strikes me as somewhat contingent. I wholeheartedly agree with Jameson’s framing of the show as a sociological work. Indeed, this fact is perhaps the show’s most interesting aspect.
+What follows is an attempt to present a few of my thoughts in dialog with the essay. In general, I find much convincing in the piece, and some of what I do find objectionable strikes me as somewhat contingent. I wholeheartedly agree with Jameson’s framing of the show as a sociological work. Indeed, this fact is perhaps the show’s most interesting aspect.
 
 I would present the thought in somewhat different terms. Baltimore itself is the subject of the show, and what is at stake in the program is the understanding of the city as a place. <em>The Wire</em> could perhaps be said to present a physiognomy of the city: an exploration of the contours of the world, locating its essence in the streets, buildings, and people–from the heights of power in government to the darkest corners of the schools, jails, housing projects, docks, drug corners, and homeless encampments.
 
-I would add that the city is a subject in a second sense: Baltimore is <em>the</em> subject, the agent seeking information–as well as growth. The city is both the investigator and the investigated, taking itself as subject. Of course, I don’t mean this observation in any magical sense. The agency of the show is manifest in the sum total of the actions of its characters. What we encounter is their subjective experience, their growth as members of a dynamic, living city.
+I would add that the city is a subject in a second sense: Baltimore is <em>the</em> subject, the agent seeking information–as well as growth. The city is both the investigator and the investigated, taking itself as subject. Of course, I don’t mean this observation in any magical sense. The agency of the show is manifest in the sum total of the actions of its characters. What we encounter is their subjective experience, their growth as members of a dynamic, living city. Each and every figure, from Lester and Avon to the most minor of characters, is locked into a struggle for knowledge and power over their world.
 
-Jameson’s fixation on the genre question obscures the problematic a bit. (His puzzlement about the show's genre is understandable. The prestige drama was still a somewhat novel form at the time, and perhaps might have presented some anxiety. Now, it’s perhaps obvious that even the least interesting shows in the format take for granted the synthesis of many discrete genre types–and an audience eager to half-attentively binge-watch.)
+I do think Jameson’s fixation on genre obscures this problematic a bit. (His puzzlement about the show is understandable. The prestige drama was still a somewhat novel form at the time, and perhaps might have presented some anxiety. Now, it’s perhaps obvious that even the least interesting shows in the format take for granted the synthesis of many discrete genre types–and an audience eager to half-attentively binge-watch.)
 
 While a key aspect of the show is certainly the work of the detectives as they probe the depths of Baltimore, we quickly learn that there is no secret to be uncovered. We also learn that neither they nor anyone else are in a privileged position to solve the problem of the city.
 
