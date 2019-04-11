@@ -4,7 +4,7 @@ layout: post
 
 Dan Gilroy’s latest film <em>Velvet Buzzsaw</em> was released last month on Netflix, following its premiere at the 2019 Sundance Film Festival. Since its debut, the movie has been attracting hype for its politicized take on the fine art world.
 
-<em>Velvet Buzzsaw</em> stages a battle between aesthetics and commerce. In the film, the aspiring gallery assistant Josephina (Zawe Ashton) stumbles across a treasure trove of enigmatic paintings in the apartment of her recently deceased neighbor, Vetril Dease. Ignoring a line in his will stipulating that the collection be destroyed upon his death, she and a group of cunning impresarios see a chance to peddle Diese’s work as the next big thing. Little do they know that he has cursed the whole lot, and an unknown force begins to enact revenge against those who profited from their sale. The crew perishes one by one.
+<em>Velvet Buzzsaw</em> stages a battle between aesthetics and commerce. In the film, the aspiring gallery assistant Josephina (Zawe Ashton) stumbles across a treasure trove of enigmatic paintings in the apartment of her recently deceased neighbor, Vetril Dease. Ignoring a line in his will stipulating that the collection be destroyed upon his death, she and a group of cunning impresarios see a chance to peddle Diese’s work as the next big thing. Little do they know that he has cursed the whole lot, and an unknown force begins to enact revenge against those who profited from the sale. The crew perishes one by one.
 
 The film is a fun slasher-camp riff on the absurdities of the art world, as if the ghostly protagonist of <em>The Ring</em> crawled out of her haunted videotape onto the set of a Christopher Guest mocumentary.
 
