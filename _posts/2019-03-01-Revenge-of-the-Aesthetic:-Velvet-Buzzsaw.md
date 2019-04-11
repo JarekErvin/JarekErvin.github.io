@@ -39,10 +39,14 @@ Raphael as much as any other artist was determined by the technical advances in 
 
 By this account, art is no more exempt from the history of class struggle than any other register of human life, and the authors chastise those who take art to be the product of free play or inspired genius.
 
-The point here isn’t to get bogged down in Marxology, but to call attention to the fact that the Marxist goal is the liberation of all humans–not a return to an age when great artists were placed on their proper pedestal.
+The point here isn’t to get bogged down in Marxology, but to call attention to the fact that the progressive vision of art should be the liberation of all humans–not a return to an age when great artists were placed on their proper pedestal.
 
-In the case of <em>Velvet Buzzsaw</em>, the film offers neither a vision of Eden Reborn, nor of a brighter, utopian future. Really, it doesn’t end with much at all. It’s easy to become frustrated with the film’s conclusion—which tacks on a classic "to be continued” moment in order to justify the film’s inclusion in the horror category. It’s simply not clear what the endgame is, such that the whole thing feels a tad pointless–if deeply charming.
+In the case of <em>Velvet Buzzsaw</em>, the film offers neither a vision of Eden Reborn, nor of a brighter, more utopian future. 
 
-Of course, <em>Velvet Buzzsaw</em> is just a movie, and deserves a pass for failing to correctly describe the communist utopia to come. It’s also pretty damn funny for most of the way through, and the art world certainly deserves its licks. To its credit, the film does demonstrate how profoundly capitalism clashes with art–a reminder that market exchange more fundamentally is at odds with human need <em>writ large</em>.
+Really, it doesn’t end with much at all. It’s easy to become frustrated with the film’s conclusion—which tacks on a classic "to be continued” moment in order to justify the film’s inclusion in the horror category. It’s simply not clear what the endgame is, such that the finale feels a tad pointless–if charming.
 
-Still, it’s worth keeping in mind the end goal, whether discussing art or any other commodity. In their discussion of Raphael, Marx and Engels call not just for the de-commodification of painting, but more fundamentally, for a world in which “there are no painters but only people who engage in painting among other activities.” In their vision, the aesthetic is neither a victim of modernity nor a vengeful force from a forgotten world–but something to be held in common by all.
+Of course, <em>Velvet Buzzsaw</em> is just a movie, and deserves a pass for failing to correctly theorize the communist utopia to come. It’s also pretty damn funny most of the way through, and the art world certainly deserves its licks. To Gilroy's credit, the film does demonstrate how profoundly capitalism clashes with art–a reminder that market exchange more fundamentally is at odds with human need <em>writ large</em>.
+
+Still, it’s worth keeping in mind the end goal, whether discussing art or any other commodity.
+
+In their discussion of Raphael, Marx and Engels call not just for the de-commodification of painting, but more fundamentally, for a world in which “there are no painters but only people who engage in painting among other activities.” In their vision, the aesthetic is neither a victim of modernity nor a vengeful force from a forgotten world, but something to be held in common by all.
