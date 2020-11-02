@@ -43,6 +43,7 @@ That said, I wouldn't recommend my approach. You’ll be in much better shape if
 
 I’d recommend trying to get a handful of weapons that fill a couple of key roles. In particular:
 
+<ul>
 <li>A few good, quick-shooting primary weapons—SMGs, Sidearms, Scouts, Pulses, Auto rifles or other things that shoot fast to kill lots of red bar minor enemies (ads)</li>
 <li>One or two reliable special ammo weapons—Shotguns, Fusion Rifles, Snipers, or other mid-powered gear that quickly puts down groups of ads and stronger yellow bar enemies</li>
 <li>A handful of top notch heavy weapons—for the strongest targets and boss damage phases (DPS), especially a good grenade launcher and a ranged weapon like a sniper</li>
