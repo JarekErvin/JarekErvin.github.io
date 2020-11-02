@@ -2,7 +2,7 @@ Bungie recently put out a <a href="https://www.bungie.net/en/News/Article/49676"
 
 I decided to write up some of my thoughts on primary weapons, with some recommendations of archetypes or specific weapons to mess around with. Some of these predictions are geared toward the meta, while I expect other weapons on my list will only be prominent with more casual players in low-stakes settings. Either way, I think we're in for a shift in terms of what people are using in bottom- and top-tier gameplay.
 
-A lot of my research was aided by the <a href="https://www.destinymassivebreakdowns.com/blog/2017/9/21/destiny-2-massive-breakdown-weapon-stats-spreadsheet" target="_blank”>Destiny Massive Breakdowns spreadsheet</a>, which I’m sure most users here are familiar with. Because I wanted to keep this from getting any longer than it is, I don’t spend a lot of time reviewing all of the sandbox changes.
+A lot of my research was aided by the <a href="https://www.destinymassivebreakdowns.com/blog/2017/9/21/destiny-2-massive-breakdown-weapon-stats-spreadsheet" target="_blank">Destiny Massive Breakdowns spreadsheet</a>, which I’m sure most users here are familiar with. Because I wanted to keep this from getting any longer than it is, I don’t spend a lot of time reviewing all of the sandbox changes.
 <br>
 <br>
 <b>Overview</b>
@@ -41,6 +41,7 @@ Let’s get started with hand cannons, which have to be one of the most interest
 <br>
 <br>
 I don’t expect scouts to become particularly dominant, but alterations to their AA cone and overall shifts to the meta will potentially let these guns shine a bit more. 150 Scouts will have a faster TTK than the fastest legendary hand cannons (140 RPMs), and also offer solid range and good perks. Smart positioning and good shooting can make this into a valuable option.
+<br>
 
 <b>Recommendations:</b>
 
@@ -56,6 +57,7 @@ I don’t expect scouts to become particularly dominant, but alterations to thei
 <br>
 <br>
 This group of weapons is the one I’m most excited about. Pulses have potential to be major players. While there were no major changes to any of them, some pulse archetypes have competitive range and excellent TTKs. Their burst fire also means that they will continue to be the more forgiving alternative to hand cannons and scouts, so I expect many auto users to convert.
+<br>
 
 <b>Recommendations:</b>
 
@@ -71,6 +73,7 @@ This group of weapons is the one I’m most excited about. Pulses have potential
 <br>
 <br>
 I wanted to throw in a grab-bag of primaries that will be interesting to consider for the short game. As I mentioned above, the nerf to autos potentially means that more players will be shifting to cautious lane positioning and longer-range weapons. That in turn opens up the door for players who like a high-pressure, in-your-face playstyle, overwhelming players who won't have anything suited to close distance. While the Ape approach will continue to reward shotgunners, there are a number of weapons I expect to be very handy as backups.
+<br>
 
 <b>Recommendations:</b>
 
