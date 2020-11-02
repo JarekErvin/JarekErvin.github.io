@@ -4,18 +4,13 @@ layout: post
 
 <b>A Guide For New and First-Time Raiders</b>
 <br>
-<br>
 I see a lot of posts on Reddit from newer players looking to learn raids, and I can tell that many of them are frustrated. It’s hard to get into raiding these days. In August 2019, I myself was trying to get my first raid and looking at an endless sea of LFG posts demanding players with 30 clears, wondering if I’d ever learn a single one.
-<br>
 <br>
 For this reason, I decided to write some tips for players looking to break in to the world of raiding. Let me lay my cards down from the beginning: I’m not actually some amazing sherpa or god tier raider. In fact, I was a total scrub a year ago, with no experience or endgame gear. I can’t say that I’m astoundingly good now, but I’ve gotten a lot better. Today, I’m a competent enough player, know every raid, and play regularly with great people.
 <br>
-<br>
 To be <i>completely</i> honest, I did it with a lot of help–and a lot of screwups along the way. In fact, that’s why I think my perspective is helpful. If I can do it, so can you!
 <br>
-<br>
 The purpose of this brief guide is to present resources so that you can work out your own path to raiding, from one not-quite-new-light to another. I try to present what I think is the most optimal version of the path–one that will best position you to learn every raid as quickly as possible. Of course, you can just run a raid or two, see how you like it, and take it from there.
-<br>
 <br>
 Either way, here are five tips to learning the raids:
 <br>
@@ -25,12 +20,9 @@ Either way, here are five tips to learning the raids:
 <br>
 Be patient, plain and simple. I cannot stress this point enough. Patience is the single most important attribute you can have. If you really want the prize, you’ll get it. But it won’t happen overnight.
 <br>
-<br>
 Destiny players often expect instant results, spamming LFGs or Discords with “need five to carry in Leviathan right now!” type posts. It rarely works. You won’t get Divinity or Anarchy; in fact, you probably won’t even find enough people to get started. If you miraculously do, the most likely result will be pure frustration.
 <br>
-<br>
 Setting up raids is challenging. You need a half dozen people to commit to hours of hard work, especially if people are learning for the first time. You will also likely need the help of experienced players and <i>sherpas</i>–people who volunteer to teach raids for free.
-<br>
 <br>
 It might not be obvious, but these players don’t have selfish reasons to play the raids anymore. I know Destroyer of Worlds is burning a hole in your quest inventory, but it’s actually instructing you to run a raid that hasn’t evolved since the launch of Destiny 2. Most hardcore players have had all of the loot from the Leviathan for years. Raiding right now is a bit like begging strangers to spend three hours riding the “It’s a Small World” ride at Disney World—after they’ve ridden it three times a week since 2017.
 <br>
