@@ -29,7 +29,7 @@ Let’s get started with hand cannons, which have to be one of the most interest
 <br>
 <b>Recommendations:</b>
 <br>
-
+<br>
 <ul>
 <li><b>Thorn & Ace of Spades</b> – I suspect both of these weapons will be popular choices, with Thorn’s Mark of the Devourer and Ace’s Memento Mori providing distinctive advantages. Each is deadly, making these two potential best-in-class exotics.</li>
 <li><b>140 RPM Hand Cannons</b> – It will be interesting to see if legendary 140s like Ancient Gospel or Nation of Beasts become more popular, and also whether or not Bungie shifts their approach to perks on the archetype. Either way, this already solid cluster will no longer be overshadowed by 150s, meaning that there is a lot of value in strong rolls.</li>
@@ -46,7 +46,7 @@ I don’t expect scouts to become particularly dominant, but alterations to thei
 <br>
 <b>Recommendations:</b>
 <br>
-
+<br>
 <ul>
 <li><b>MIDA Multi-Tool</b> – I’m sure everyone is excited about this weapon, which has faded in the last year. I expect to see it a lot in week one; if it’s at all crispy, it might still be there at the end of the season. Legendary 200 RPMs like Night Watch might also have some sleeper value as a non-Exotic alternative. Their .9 TTK is not too shabby, and they have an intrinsic Lightweight perk with a solid perk pool.</li>
 <li><b>Jade Rabbit</b> – There has been a lot of chatter about the 150 RPM exotic scout rifle Jade Rabbit. The inclusion of High-Cal Rounds offers potential value in long-range duels; now that Gnawing Hunger can’t cross-map scout users, I expect to see people trying out this one or its Energy slot rival, Polaris Lance.</li>
@@ -63,7 +63,7 @@ This group of weapons is the one I’m most excited about. Pulses have potential
 <br>
 <b>Recommendations:</b>
 <br>
-
+<br>
 <ul>
 <li><b>High-Impact Pulse Rifles (340 RPM)</b> – This archetype received a buff for Season of Arrivals, so it was already very strong. Like many other weapons, it will have a bit more breathing room next season. If you can hit your shots, this gun has the potential to be a truly dominant primary.</li>
 <li><b>Aggressive Burst Pulse Rifles (450 RPM)</b> – With a TTK of .73, this archetype will effectively become one of the fastest weapons in the game when the new update is live. Right now, Sacred Providence is a potential go-to, especially since Garden of Salvation has been such a popular raid this year. It’s likely that players have stashed powerful combos like Rapid Hit/Kill Clip or Rangefinder/Snapshot Sights, but I’m hopeful Bungie will introduce others.</li>
@@ -80,7 +80,7 @@ I wanted to throw in a grab-bag of primaries that will be interesting to conside
 <br>
 <b>Recommendations:</b>
 <br>
-
+<br>
 <ul>
 <li><b>Traveler’s Chosen/300 RPM Sidearms</b> – Traveler’s Chosen has already attracted a lot of fans. It’s a standout example of an archetype that, while not tremendously popular, has long had a number of diehards. If Bungie introduces even more 300 RPM options to replace the .6 second TTK of guns like Drang and Translation Theory, I expect them to be very relevant. (Don’t sleep on Rat King or Devil’s Ruin either!)</li>
 <li><b>The Last Word</b> – It isn’t a hot take to say The Last Word might be popular, but this gun is only going to be more central to the meta next season. I’ve lost a lot of 1v1s to TLW users, even while running Drang or Gnawing Hunger. Take them off the table, and this weapon could be highly dominant.</li>
