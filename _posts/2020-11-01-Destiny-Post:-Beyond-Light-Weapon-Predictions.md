@@ -26,7 +26,7 @@ Here are my other thoughts:
 <br>
 Let’s get started with hand cannons, which have to be one of the most interesting restructures in the upcoming sandbox. I expect hand cannons to remain relevant on all systems. The removal of 150s does weaken the whole class, but they retain value for their high damage-per-shot and utility in cover. The decline of autos and the increase to hand cannon range also helps them retain their value as an all-around weapon. I don’t have high hopes for 180 HCs, but 140s and 120s will be competitive with mid-long-range weapons and as players close the gaps. My guess is that the Dire Promise-Felwinter’s Lie combo is far from dead.
 <br>
-
+<br>
 <b>Recommendations:</b>
 
 <ul>
@@ -42,7 +42,7 @@ Let’s get started with hand cannons, which have to be one of the most interest
 <br>
 I don’t expect scouts to become particularly dominant, but alterations to their AA cone and overall shifts to the meta will potentially let these guns shine a bit more. 150 Scouts will have a faster TTK than the fastest legendary hand cannons (140 RPMs), and also offer solid range and good perks. Smart positioning and good shooting can make this into a valuable option.
 <br>
-
+<br>
 <b>Recommendations:</b>
 
 <ul>
@@ -58,7 +58,7 @@ I don’t expect scouts to become particularly dominant, but alterations to thei
 <br>
 This group of weapons is the one I’m most excited about. Pulses have potential to be major players. While there were no major changes to any of them, some pulse archetypes have competitive range and excellent TTKs. Their burst fire also means that they will continue to be the more forgiving alternative to hand cannons and scouts, so I expect many auto users to convert.
 <br>
-
+<br>
 <b>Recommendations:</b>
 
 <ul>
@@ -74,7 +74,7 @@ This group of weapons is the one I’m most excited about. Pulses have potential
 <br>
 I wanted to throw in a grab-bag of primaries that will be interesting to consider for the short game. As I mentioned above, the nerf to autos potentially means that more players will be shifting to cautious lane positioning and longer-range weapons. That in turn opens up the door for players who like a high-pressure, in-your-face playstyle, overwhelming players who won't have anything suited to close distance. While the Ape approach will continue to reward shotgunners, there are a number of weapons I expect to be very handy as backups.
 <br>
-
+<br>
 <b>Recommendations:</b>
 
 <ul>
