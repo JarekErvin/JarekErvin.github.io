@@ -90,6 +90,7 @@ Out-of-game, you’ll also find there is a veritable flood of resources designed
 <li><a href="https://www.reddit.com/r/Fireteams" target="_blank">r/Fireteams</a>: This page helps facilitate matchmaking for any and all group activities. People often post about raids. It’s a bit slow, but can lead to more substantive groups. I see a lot of people here posting about running raids “blind”–that is, figuring out the mechanics without a sherpa or walkthrough–so it’s a great resource if that’s what you’re hoping to do.</li>
 <li><a href="https://www.reddit.com/r/DestinySherpa" target="_blank">r/DestinySherpa</a>: I saved the most important for last. This page is full of sherpas who will teach and guide you through Destiny raids. You can post there looking for help, and stay tuned for scheduled raids offered by the sherpas. It’s your best resource. I learned half of the raids through this site, and met a bunch of good friends along the way.</li>
 </ul>
+
 <br>
 
 <b>4. Familiarize Yourself with the Raids!</b>
