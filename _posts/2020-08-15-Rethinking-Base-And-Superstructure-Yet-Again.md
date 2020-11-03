@@ -29,15 +29,20 @@ This definition goes against a commonplace assumption, held by some Marxists and
 
 After theorizing some implications of this restrictive conception of superstructure, I illustrate the framework using the example of the modern day Nation-State. I focus on the United States, specifically the case of the National Endowment of the Arts, one of the largest public sources of arts funding in the country. This example models a way to analyze determinacy and function in the context of art. For better and for worse, culture <i>is</i> often tethered by prevailing economic conditions. The base-superstructure schema helps us to locate art within a social formation dominated by capitalist relations, and shows how profoundly this setting hinders the development of robust, public forms of life.
 […]
+
+<br>
 <br>
 <b>3. Defining Superstructure</b>
+<br>
 The concept of a superstructure seldom appears in Marx’s writings. His most definitive statement on the topic is found in the Preface to <i>A Contribution to the Critique of Political Economy</i> (1859). This text opens with an intriguing paragraph, which outlines what Marx calls the ‘guiding principle of my studies’:
 <blockquote>
 In the social production of their existence, men inevitably enter into definite relations, which are independent of their will, namely relations of production appropriate to a given stage in the development of their material forces of production. The totality of these relations of production constitutes the economic structure of society, the real foundation, on which arises a legal and political superstructure and to which correspond definite forms of social consciousness. The mode of production of material life conditions the general process of social, political and intellectual life. It is not the consciousness of men that determines their existence, but their social existence that determines their consciousness (Marx and Engels 1975, 29: 262, 263).
 </blockquote>
+
 This passage is dense and evocative. In particular, Marx implies that there is a connection between the human will and relations of production, gestures at the notion of an economic structure, and presents the curious idea that social existence determines ‘the consciousness of men’. Fundamentally, he contrasts the economic foundation or structure of society with a legal and political superstructure.
 
 This paragraph has generated a long-running debate, encompassing a number of key registers. With regards to the base-superstructure schema in particular, the debate has focused on three primary issues:
+
 <ol>
 <li><i>Definition</i> – What is an economic structure, and what is a superstructure? How can we systematize these terms in order to yield a sufficient organizational theory of the capitalist mode of production?</li>
 <li><i>Determinacy</i>  – What did Marx mean by the claim that social existence ‘determines’ consciousness, and to what extent does this bear upon the base-superstructure schema? Do economic matters somehow shape the <i>internal</i> character of practices such as art and law?</li>
@@ -61,6 +66,7 @@ Cohen contrasts these concepts with the superstructure, which he defines as ‘l
 Because some confusion exists about this issue, it is worth underscoring part of Cohen’s definition: the superstructure refers to <i>institutions</i>. We should be cautious about describing every non-economic entity as a superstructure. The superstructure is not equivalent to productive forces, commodities, persons, or mental states, even if it does necessarily relate to such entities.
 
 In <i>Biography of a Blunder: Base and Superstructure in Marx and Later</i> (2016), Dileep Edara characterizes this understanding as a ‘restrictive’ definition of superstructure. In the book–one of the few, sorely needed studies of this topic–Edara conducts a painstakingly detailed reading of Marx’s writings on the matter, as well as a careful review of the secondary literature. He concludes that we should be narrow in our conception of the superstructure. In this spirit, he writes,
+
 <blockquote>
 [T]he theory of the base and the superstructure is not an all-encompassing paradigm that explains away all the social spheres in reference to the economy, as it is widely believed to have done, but a conceptual model to explicate the inextricable connection between the production relations (the base) and politics and law (superstructure) (Edara 2016, 16).
 </blockquote>
@@ -69,7 +75,9 @@ Edara maintains here that the superstructure exclusively refers to what is commo
 
 The restrictive framework allows us to bring a degree of clarity to the matter. The superstructure is a group of institutions within the State and civil society, ones that are primarily or partially non-economic in character. Importantly, this domain is not meant to exhaust all sorts of human activities, nor to advance a stronger thesis that the economy determines every aspect of social life. Rather, it is meant to give us an organizational theory of capitalism, a framework for defining and analyzing the many institutions that coexist in an internally complex society.
 <br>
+<br>
 <b>Theorizing Art and the Superstructure</b>
+<br>
 Based on the foregoing discussion, it is misleading to insist that art is (or isn’t) autonomous from the superstructure. Art institutions can be superstructural, economic, mixed, or neither. It does not make sense to characterize the multibillion dollar company Sony Interactive Entertainment as part of the superstructure. In fact, commercial art ventures can substantively be understood as economic activities, and discussed in terms of the Marxian economic schema. Capitalist firms deploy forces of production, both means of production (e.g. paintbrushes, software suites, semi-trailer trucks) and the labor power of a wide range of workers (e.g. painters, accountants, truck drivers). Artmaking also has specific relations of production, the dynamics of ownership and employment within any given arts industry. These relations come from both the globalized mode of production of contemporary capitalism and a range of residual models absorbed from non-capitalist forms of labor: the serialized production of a Fender Stratocaster electric guitar on a Mexican assembly line, or the master-apprentice workshop construction of a handmade classical guitar in Spain.
 
 Meanwhile, the court that enforces Sony’s copyright over their intellectual property is undeniably superstructural, as is a State office that doles out grants, or a non-profit that organizes community arts programs. Art is made in universities, religious spaces, and other venues, ones that often have a degree of legal or financial separation from the market. Of course, we can think of complicated instances, as when: a businessowner donates to a non-profit artistic venture; a nominally public university grows its endowment through financial speculation; or a church amasses wealth in the form of land. These cases only add to the richness of the discussion, but they further show that it is unhelpful to think of art as something reducible to or autonomous from the economic base of society.
@@ -81,6 +89,8 @@ Cohen does not discuss aesthetics, but he offers a parallel account of science t
 This account does not contradict the view that science can advance nefarious economic agendas, or even a stronger thesis that science is fundamentally determined by institutional paradigms. Context matters. Research can be undertaken personally by an individual who holds an intrinsic love of knowledge, by a teacher in a course offered at a state-funded university, or by a R&D department tasked with finding new sources of profit. (We can again think of in-between cases, as when a university laboratory, supported by a mix of public and private funds, produces knowledge that may potentially be used to generate patents or commodities.) Regardless, it does not make sense to think of science as a purely superstructural entity, whatever else it may be.
 
 We can extend this analysis to the aesthetic. Art is also a complicated case. It encompasses ideal elements (e.g. sensory pleasure, beauty), strictly technical aspects (e.g. a synthesizer, a painter’s skill), and a range of institutions that support artistic activity (e.g. for-profit companies, public universities). Following Cohen, we can see that it is mystifying to insist on the basic or superstructural character of art’s immaterial aspects, while still considering the ways in which organizational context might significantly impact artistic production.
+
+<br>
 <br>
 <b>Determinacy and Function</b>
 <br>
