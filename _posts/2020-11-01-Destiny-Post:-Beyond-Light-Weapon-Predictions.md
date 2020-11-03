@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 Bungie recently put out a <a href="https://www.bungie.net/en/News/Article/49676" target="_blank">TWAB detailing the sandbox changes</a> that are coming to Destiny 2 with the Beyond Light expansion. Obviously, a lot remains TBD, especially until we see what sorts of weapons/perks will be available. Even so, I’m excited by the changes, and have been trying to think ahead about Light Level-relevant weapons that might be worth taking for a spin on day 1.
 
 I decided to write up some of my thoughts on primary weapons, with some recommendations of archetypes or specific weapons to mess around with. Some of these predictions are geared toward the meta, while I expect other weapons on my list will only be prominent with more casual players in low-stakes settings. Either way, I think we're in for a shift in terms of what people are using in bottom- and top-tier gameplay.
